@@ -1,0 +1,2953 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands sorrowe or, A farewell to Essex with a commemoration of the famous liues, and vntimely deaths of many woorthie personages which haue liued in England. By W.H. gent. The contents follow in the next page.</title>
+            <author>W. H., gent.</author>
+         </titleStmt>
+         <extent>Approx. 115KB of XML-encoded text transcribed from 38 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13842</idno><idno type="EEBO-CITATION">99851759</idno>
+  <idno type="VID">176291</idno>
+  <idno type="EEBO-PROQUEST">2248545626</idno>
+  <idno type="STC">STC 12582</idno>
+  <idno type="STC">ESTC S116543</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99851759e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13842)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176291)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1307:08)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands sorrowe or, A farewell to Essex with a commemoration of the famous liues, and vntimely deaths of many woorthie personages which haue liued in England. By W.H. gent. The contents follow in the next page.</title>
+                  <author>W. H., gent.</author>
+                  <author>Herbert, William, Sir, 1553?-1593, attributed name.</author>
+               </titleStmt>
+               <extent>[76] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by Valentine Simmes] for Henry Rocket, and are to be sold at the long shoppe in the Poultrie vnder the Dyall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1606.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By W. Harbert?--STC.</note>
+                  <note>Printer's name from colophon.</note>
+                  <note>In verse.</note>
+                  <note>Running title reads: Honours epitaphs.</note>
+                  <note>First and last leaves blank.</note>
+                  <note>Some print show-through; some leaves cropped.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Elizabeth, 1558-1603 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176291:1"/>
+            <pb facs="tcp:176291:1"/>
+            <p>ENGLANDS SORROWE OR, A Farewell to Essex: With A Commemoration of the famous Liues, and vntimely Deaths of many woorthie Persona<g ref="char:EOLhyphen"/>ges which haue liued in England.</p>
+            <p>By W. H. Gent.</p>
+            <p>
+               <hi>The Contents follow in the next Page.</hi>
+            </p>
+            <p>LONDON <hi>Printed for Henry Rocket, and are to be sold at the long Shoppe in the Poultrie vnder the Dyall. 1606.</hi>
+            </p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:176291:2"/>
+            <head>❧ The Contents.</head>
+            <list>
+               <item n="1">
+                  <hi>1</hi> Robert Earle of Essex.</item>
+               <item n="2">
+                  <hi>2</hi> Sir Walter Deuoreux.</item>
+               <item n="3">
+                  <hi>3</hi> Elizabeth Queene of Eng<g ref="char:EOLhyphen"/>land.</item>
+               <item n="4">
+                  <hi>4</hi> Robert Dudley Erle of Lei<g ref="char:EOLhyphen"/>cester.</item>
+               <item n="5">
+                  <hi>5</hi> Sir Phillip Sidney.</item>
+               <item n="6">
+                  <hi>6</hi> Sir William Cecill.</item>
+               <item n="7">
+                  <hi>7</hi> Henry Earle of Penbrooke.</item>
+               <item n="8">
+                  <hi>8</hi> Thomas Howard Duke of Norffolke.</item>
+               <item n="9">
+                  <hi>9</hi> Prince Arthur.</item>
+               <item n="10">
+                  <hi>10</hi> Henry the fift.</item>
+               <item n="11">
+                  <hi>11</hi> William Earle of Pem<g ref="char:EOLhyphen"/>brooke.</item>
+               <item n="12">
+                  <hi>12</hi> Sir Thomas Wyat.</item>
+               <item n="13">
+                  <hi>13</hi> Queene Mary.</item>
+               <item n="14">
+                  <hi>14</hi> Earles of Worcester.</item>
+               <item n="15">
+                  <hi>15</hi> Earles of Rutland.</item>
+               <item n="16">
+                  <hi>16</hi> Lord Clinton.</item>
+               <item n="17">
+                  <hi>17</hi> Lord Grey.</item>
+               <item>The Conclusion, A Defence against Envy.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:176291:2"/>
+            <head>THE <hi>Lamentation of Britaine.</hi>
+            </head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">A</seg> Downe the Oary Rocke by silver Lee,</l>
+               <l>Nigh where the goodly Girle was drencht of yore;</l>
+               <l>Weeping I saw, &amp; almost wept, to see,</l>
+               <l>A mournful Queen in boat with broken oare</l>
+               <l>Chide the sterne wave, and strive against the<note n="(a)" place="margin">The erop the flood in Severne, so called.</note> Boare:</l>
+               <l>With that she plain'd, sad ruth, it griev'd mine eye,</l>
+               <l>To see, how great and small, how all must die.</l>
+            </lg>
+            <lg>
+               <l>Then did she gin to rend her hoary haire,</l>
+               <l>Where aged gravitie and reverence stoode,</l>
+               <l>Her gesture gratious, and demeanor faire,</l>
+               <l>Nigh riven had my breast, when all my blood</l>
+               <l>Stoode in my fore-head and congealde as crud:</l>
+               <l>Then did she sigh and shed some pearly dew,</l>
+               <l>Which soone did end, and thus began anew.</l>
+            </lg>
+            <lg>
+               <l>Me seemes the antique Sages were not wise,</l>
+               <l>Ne ever great, inglorious were their daies,</l>
+               <l>Their workes embase, and merite no aguise;</l>
+               <l>Of worthy front, though olden stories raise</l>
+               <l>Their rustie fathers, and with lively baies</l>
+               <l>Girlond their hoary browes, whose names down lie</l>
+               <l>In lowest slime and groveling ignomie.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:3"/>
+               <l>Ingrav'd in toombe of dust, whose grounded pall</l>
+               <l>Emparkes the rotten ruine of some man;</l>
+               <l>Some man, that whilome was ydread of all</l>
+               <l>The world; the world was waxen wan,</l>
+               <l>When this huge masse yfeared one great man:</l>
+               <l>When one had all, what were our old syres then?</l>
+               <l>More then you deem, for they were more then men.</l>
+            </lg>
+            <lg>
+               <l>More then those mightie ones, whose greater fame,</l>
+               <l>Is to be borne of bold and valiant syre,</l>
+               <l>Your second sonnes, whose kingdomes-threatning name,</l>
+               <l>Greatnesse affect, whose rage and bondlesse ire,</l>
+               <l>S'daine vertues sacred meare ingrav'd in mire:</l>
+               <l>Blaze Natures blame, me seemes some sinne of old</l>
+               <l>Makes Nature baulke, or she hath lost that mold.</l>
+            </lg>
+            <lg>
+               <l>That heavenly mold, in which she wont to lay</l>
+               <l>Our shapelesse Ancestor in time of yore,</l>
+               <l>Mongst men there were (oh might I ever say)</l>
+               <l>Such worthy wightes, of worthy wightes such store,</l>
+               <l>As much me feares, the world shall neuer more</l>
+               <l>Behold so brave a band, so brave they are;</l>
+               <l>Which <hi>Pallas</hi> yoke with <hi>Mars,</hi> and Arts with warre.</l>
+            </lg>
+            <lg>
+               <l>Such were our elder syres, I would you were,</l>
+               <l>(Brave Impes of honour) ev'n as great as them,</l>
+               <l>To weld the Kingdomes cause and common feare,</l>
+               <l>Secure was all their care, they wonted then</l>
+               <l>T'exceede in bountie, as in birth base men:</l>
+               <l>I am not heard, if heard, despisde; what then?</l>
+               <l>"They cannot hurt, who cannot do like men.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:3"/>
+               <l>But they were men, and honourable wife,</l>
+               <l>Their noble breasts did scorne to beare the scarre</l>
+               <l>Of ignorance, or peasant cowardize:</l>
+               <l>T'was sacred Arts and honourable warre</l>
+               <l>That made them great, and you as now you are:</l>
+               <l>As now you are, so were not they, they were</l>
+               <l>As you should be, that's learned without feare.</l>
+            </lg>
+            <lg>
+               <l>Fearelesse they euer were, but now they are</l>
+               <l>As if they euer fear'd, or neuer were,</l>
+               <l>Neuer so wise in peace, nor bold in warre;</l>
+               <l>But they were both, ne did they ever feare,</l>
+               <l>Because what you are not, they ever were:</l>
+               <l>They ever were renown'd, but vse hath bred</l>
+               <l>A custome, (which is) all forget the dead.</l>
+            </lg>
+            <lg>
+               <l>Then why doth man spend time and better daies,</l>
+               <l>To gaine the wreathe which is not made of Bay?</l>
+               <l>Or why doth man attempt by brave assaies,</l>
+               <l>His name to raise, since that his greatnesse may</l>
+               <l>Fall with the blast but of one winters day?</l>
+               <l>Then why doth man of latter world yscorne</l>
+               <l>Those former ones, of whom themselves were born?</l>
+            </lg>
+            <lg>
+               <l>Oh man, by mans ambition cast away,</l>
+               <l>By man redeem'd, by God the sonne of man;</l>
+               <l>Why art thou prowd, since thou maist die to day?</l>
+               <l>For when thy glasse like to an howre hath ran,</l>
+               <l>Thy end drawes on, mans period is a span:</l>
+               <l>"The fixed date vnknowen is to men,</l>
+               <l>"We certaine are to die, but God knowes when.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:4"/>
+               <l>Man's like a woodden Towre in midst of plaine,</l>
+               <l>Subiect to blast of vnadvised fate,</l>
+               <l>Tell me, O thou which as a King doost raigne</l>
+               <l>On lower Orbe, how sure is thy estate?</l>
+               <l>"What men dispose the heavens determinate;</l>
+               <l>Thou seest the rocke, beware and shun the shelfe,</l>
+               <l>First feare the Lord, then learne to know thy selfe.</l>
+            </lg>
+            <lg>
+               <l>This doth the sager soule of men amuse,</l>
+               <l>To see the great men florish like sunnes ray,</l>
+               <l>Serv'd of the world, and sooth'd by every Muse,</l>
+               <l>And yet to see them darkned in a day;</l>
+               <l>Man, know thy selfe, earths worst, and that is clay:</l>
+               <l>"Each creature is the servant vnto death,</l>
+               <l>"For every one must die who drawes his breath.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">Robert Earle of Essex.</note>Witnesse thou mightie Lord, whom I did see</l>
+               <l>Laid in deaths house, whose honour ever shine;</l>
+               <l>He was, what was he not that he should be?</l>
+               <l>A great man good. I saw that man enshrine</l>
+               <l>Celestiall vertue in a vault of slime;</l>
+               <l>I saw men grace his good, his ill despise,</l>
+               <l>"Who endeth best is blest, and truly wise.</l>
+            </lg>
+            <lg>
+               <l>Was never age, nor ever time did see,</l>
+               <l>So valiant and so brave a Gentleman,</l>
+               <l>So mightie, iust, so good and great as hee;</l>
+               <l>The forraigne spoiles and conquests which he wan,</l>
+               <l>Were like to those of <hi>Scipio African:</hi>
+               </l>
+               <l>If he now liv'd, how would he envie then?</l>
+               <l>But thou art dead, and envy dies with men.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:4"/>
+               <l>But thou art dead, oh hadst thou never dide!</l>
+               <l>Certes (vnlesse I vainely prophetize)</l>
+               <l>Thou art immortall, and my vow shall bide</l>
+               <l>As firme as centre to immortalize</l>
+               <l>Thy gests, and send them to the mighty eyes:</l>
+               <l>Great ones shall reade and praise thy deeds, for mee</l>
+               <l>I deeme it praise to be dispraisde for thee.</l>
+            </lg>
+            <lg>
+               <l>Ne're shall thy name, ne're shall thy greatnesse die,</l>
+               <l>Ne those triumphant trophees rear'd by thee,</l>
+               <l>No nor the least of these (sweete soule) whilst I,</l>
+               <l>Or these prowd lines (which scorne to die with mee)</l>
+               <l>Have any being, thine shall ever bee;</l>
+               <l>And as the mournefull bird vpon a wave,</l>
+               <l>Sad melodie shall bring me to my grave.</l>
+            </lg>
+            <lg>
+               <l>This was a man, the world shall never see</l>
+               <l>So faire a mirror made of glories glasse,</l>
+               <l>A Captaine true of note and name was hee;</l>
+               <l>What was he not? no lover of the Masse,<note place="margin">The protestati<g ref="char:EOLhyphen"/>on of his owne Apologie.</note>
+               </l>
+               <l>Nor over pure, as some supposde he was:</l>
+               <l>He vsde a meane, Experience said t'was best,</l>
+               <l>Nor was he prone to warre, but bent to rest.</l>
+            </lg>
+            <lg>
+               <l>Who would entoombe those death-deriding deedes</l>
+               <l>Vnder the furrow of a Marble pile,</l>
+               <l>And let bright honour walke in Sable weedes,</l>
+               <l>And see (alas) vnworthies march the while,</l>
+               <l>Vnder the standard of a glorious stile:</l>
+               <l>Some selfe-love stole vailes our vaine glorious eyes,</l>
+               <l>We smooth our worser selves, the best despise.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:5"/>
+               <l>
+                  <note place="margin">Robert Earle of Essex, Generall of the English before Roane.</note>Oh, can the pens of <hi>Europs</hi> paradise,</l>
+               <l>Can <hi>France</hi> forgetfull with oblivions wave,</l>
+               <l>Wash all that blood which did her patronize?</l>
+               <l>Me seemes thy ghost should of the Normans crave</l>
+               <l>Some lines to be engraven on thy grave:</l>
+               <l>
+                  <hi>Roane</hi> is all rude, when <hi>Salust</hi> once was dead,</l>
+               <l>The Muses from that barren climate fled.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">Sir Walter Deureux, slaine at the seege of Roane.</note>There dide that memorable impe of fame,</l>
+               <l>The second branch of heavens-aspiring tree;</l>
+               <l>Thy worthy brother, worthy that great name,</l>
+               <l>Great name in being thine, hight worthy hee</l>
+               <l>That was the Sire of such nobilitie:</l>
+               <l>Thy brother dide, whilst dangers he did dare,</l>
+               <l>For that great heire of <hi>France,</hi> the good <hi>Nauare.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Oh now I could my humble Genius straine,</l>
+               <l>And sing of <hi>Burbon</hi> and the house of <hi>Guise,</hi>
+               </l>
+               <l>
+                  <hi>Haumount,</hi> and that rebellious Duke of <hi>Mayne,</hi>
+               </l>
+               <l>Prince of sedition, <hi>Parma,</hi> farre too wise</l>
+               <l>To rule the Church, she falls when such do rise:</l>
+               <l>These saw thy valour and admirde the same,</l>
+               <l>Phoenix of praise, Prince of triumphant fame.</l>
+            </lg>
+            <lg>
+               <l>But what of these? these were but shades to thee,</l>
+               <l>Shades of thy greatnesse, for thou wert too great,</l>
+               <l>Yet nothing to Desert; Desert was shee</l>
+               <l>That made thy mightie armes and shoulders sweate</l>
+               <l>With honours load, t'was honour made thee great:</l>
+               <l>T'was Honour made thee great, and she againe</l>
+               <l>Threw thee to earth, ambition is but vaine.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:5"/>
+               <l>Vaine is Ambition, why should worthies rhen</l>
+               <l>(Worthy true praise by deedes done farre away,)</l>
+               <l>Pursue this shadow? which the wiser men</l>
+               <l>Shunne as a shade, that rust of olden day,</l>
+               <l>Will inly gnaw; great ones are old times pray:</l>
+               <l>Preies to old age; old age and praise must die,</l>
+               <l>This world and all, all is but vanitie.</l>
+            </lg>
+            <lg>
+               <l>Vaine is the world, and worldly honour vaine,</l>
+               <l>Vaine glory is the meare of greatest <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eede,</l>
+               <l>And greatest deedes, as greatest ones must daine</l>
+               <l>To be earths sonnes, her sonnes are like the seede,</l>
+               <l>Which sowne, rise, then fall; thus all must speede:</l>
+               <l>Thus all must speede and perish like the grasse,</l>
+               <l>"The world must be as if it never was.</l>
+            </lg>
+            <lg>
+               <l>The world must die, and all that live therein</l>
+               <l>Must have a terme, which reason could not see;</l>
+               <l>The world must end because it did begin,</l>
+               <l>The King of starres thought good it thus should bee;</l>
+               <l>Faith onely apprehends such mysterie:</l>
+               <l>Thou wert a man, man erres, I, there I rest,</l>
+               <l>Thy end did erre, whereas it should be best.</l>
+            </lg>
+            <lg>
+               <l>I will not of thy infant glory sing,<note place="margin">His iourney to Lisborne, with the conquest of Cadez.</note>
+               </l>
+               <l>Ne of that famous Spanish overthrow,</l>
+               <l>For that they all bin dark't, me seemes such thing</l>
+               <l>Should ever live, they cannot die, so thou</l>
+               <l>Shalt live by them, and they shall live by you;</l>
+               <l>Honour to man, doth life eternall give,</l>
+               <l>"Who wanteth woorth, vnworthy is to live.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:6"/>
+               <l>With what applause and wonderfull renowne,</l>
+               <l>Like <hi>Romane</hi> old in his ovatique Carre,</l>
+               <l>Did he assault that Ocean-bordring Towne;</l>
+               <l>There did thy mercie shine in midst of warre.</l>
+               <l>And lenity did wrath from murther barre:</l>
+               <l>Will <hi>Manlius</hi> beate the French, then <hi>Rome</hi> surprize?</l>
+               <l>No man can happy be vntill he dies.</l>
+            </lg>
+            <lg>
+               <l>What ayry organ, what celestiall stile,</l>
+               <l>Nay Angel may thy glory comprehend?</l>
+               <l>What then dare I, who in respect am vile,</l>
+               <l>Naught (dreaded Lord) sweete soule I onely tend,</l>
+               <l>To shew how much thy actions all commend:</l>
+               <l>Something there is; but what, lies hid to mee,</l>
+               <l>Makes vs love those, whom scarce our eyes did see.</l>
+            </lg>
+            <lg>
+               <l>Did not the forraigne sonnes of Praise admire,</l>
+               <l>To see thy Crimson colours spred in <hi>Spaine?</hi>
+               </l>
+               <l>And more to see, (sad sight) enraged fire,</l>
+               <l>Raze their prowd Towers, such pride and praise be vaine;</l>
+               <l>For as we hurt, we may be hurt againe:</l>
+               <l>What warre doth purchase, that doth riot spend,</l>
+               <l>Things gotten ill, doe alwaies worser end.</l>
+            </lg>
+            <lg>
+               <l>Then flamde rich spires, then were the buildings hie</l>
+               <l>Made equall with low ground, and we did see</l>
+               <l>The bloody Crosse, like antique Egle flie</l>
+               <l>On heavens neighbour primare Towre. Then hee</l>
+               <l>Was milder then a man of warre should bee:</l>
+               <l>In heate of fray, resistance made, all kill,</l>
+               <l>The end of Conquest should be mercie still.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:6"/>
+               <l>Did antique <hi>Barde</hi> the Greeke immortalize,<note place="margin">When Alex<g ref="char:EOLunhyphen"/>ander beheld Achilles mo<g ref="char:EOLunhyphen"/>nument, or a<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> some write the Iliades o<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Homer, which so highly com<g ref="char:EOLunhyphen"/>mended his actions: it is reported he shed teares.</note>
+               </l>
+               <l>Which drew ambitious currents from the eyne</l>
+               <l>Of the worlds King, and made him plaine this wise;</l>
+               <l>Happy young man, thou liv'dst in happy time,</l>
+               <l>Whose honours Trump was <hi>Homers</hi> noble rime:</l>
+               <l>Happy he was, more happy thou shouldst bee,</l>
+               <l>If <hi>Homer</hi> were inferior vnto mee.</l>
+            </lg>
+            <lg>
+               <l>What sholes of martiall Knights did I behold</l>
+               <l>Vpon thy grace and easie favour tend,</l>
+               <l>Which made them carelesse, and thy selfe too bold,</l>
+               <l>Nay rather blinde; I cannot that commend;</l>
+               <l>"Hee that deales wisely doth respect the end:</l>
+               <l>If thou beest great, iudge not thy selfe too good,</l>
+               <l>Envie is page vnto ambitious blood.</l>
+            </lg>
+            <lg>
+               <l>Oh what a troupe of Chieftains bravely tride,</l>
+               <l>And thousand Souldiers never borne to feare</l>
+               <l>Were led by thee!<note place="margin">The Iland voyage.</note> whenas thy ships did ride</l>
+               <l>On the prowd Ocean, prowd such weight to beare;</l>
+               <l>A subiects glory breedes a Princes feare:</l>
+               <l>Seeme not too great whom Princes lift on hie,</l>
+               <l>Kings are most iealous of their Maiestie.</l>
+            </lg>
+            <lg>
+               <l>After this height of glory did I see,</l>
+               <l>Thy selfe exilde from worlds embracing eye,</l>
+               <l>And from thy Queene, which more aggreeved thee,</l>
+               <l>Then most of ill, all publique honour flie,</l>
+               <l>You that wish rather for to live then die:</l>
+               <l>Shunne the worlds favour, for t'will envie gaine,</l>
+               <l>Humilitie is lov'd, all pride is vaine.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:7"/>
+               <l>I weepe that day, more like a night then day,</l>
+               <l>When Fury did authoriz'd power spurne,</l>
+               <l>Imprisning Counsell, oh for which my lay,</l>
+               <l>My dolefull lay, and I will ever mourne</l>
+               <l>Like <hi>Vesta's</hi> fire, whose flames do ever burne:</l>
+               <l>Sleepe still sad crime, let worth enobled live,</l>
+               <l>T'is not thy good, but bad that makes me grieve.</l>
+            </lg>
+            <lg>
+               <l>The Sunne should shine, but did not shine that day,</l>
+               <l>The ruddy morne slept still and would not rise,</l>
+               <l>As sham'd to see chaste Honour runne astray:</l>
+               <l>What more could man attempt? they are not wise,</l>
+               <l>Who counsell great men Princes to surprise:</l>
+               <l>Though yee beare rule, obedient be to them,</l>
+               <l>Whom heavens ordaine to be the Kings of men.</l>
+            </lg>
+            <lg>
+               <l>That was an howre predestinate to ill,</l>
+               <l>When thou as Lion rowz'd didst leave thy den</l>
+               <l>To chase a prey, on some vnhumane hill;</l>
+               <l>What oft I heard, me greev'd to see it then,</l>
+               <l>Great men trust knaves, and will not honest men:</l>
+               <l>He that would learne the truth, should him beleeve,</l>
+               <l>Who not for gaine, but love, doth counsell give.</l>
+            </lg>
+            <lg>
+               <l>What angry looke of some infernall starre</l>
+               <l>Did guide that Ashy morne the first of Lent?</l>
+               <l>When thou didst die, oh hadst thou dide in warre</l>
+               <l>For <hi>England</hi> then, then would not I lament</l>
+               <l>Thy soule and bodies bloody banishment:</l>
+               <l>Thus rested he, and laid him downe to sleepe,</l>
+               <l>The mourners wept and walkt about the streete.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:7"/>
+               <l>Those eyes that saw him live, did see him dead,</l>
+               <l>And wept to see so brave a warrier die,</l>
+               <l>To die so bad, who was so bravely bred,</l>
+               <l>Bred by the hand of warre; weepe more mine eye</l>
+               <l>To see him dead, who liv'd so worthily:</l>
+               <l>Yea worthy olden daies, but man hath grave,</l>
+               <l>Not when wee would, but when his stars do crave.</l>
+            </lg>
+            <lg>
+               <l>I saw that starre within the welken blaze,</l>
+               <l>Whose lustre wav'd this warrior to renowne,</l>
+               <l>Worth wan renowne, renowne did purchase grace,</l>
+               <l>Grace made him great, &amp; greatnesse threw him down,</l>
+               <l>With his owne weight he fell like the worlds Towne:</l>
+               <l>I saw the Egle which did towre so hie</l>
+               <l>Fall like the Bucke; which done, deserve to die.</l>
+            </lg>
+            <lg>
+               <l>I saw that mightie Bucke within a grove,</l>
+               <l>Shelter his hornes, which whilome threat the skie;</l>
+               <l>At length he rowzed was, and forth did rove:</l>
+               <l>Then did I see an Ebon arrow flie,</l>
+               <l>Which split his hart; thus did the great Hart die:</l>
+               <l>Thus dide the Deere; what saist thou Pride? I say</l>
+               <l>There is a God, though all the world say nay.</l>
+            </lg>
+            <lg>
+               <l>There is a God, and that great God is iust,</l>
+               <l>As iust as great, as mercifull as wise,</l>
+               <l>His mercie, not thy merrit makes me trust,</l>
+               <l>That thou art grac'd with Angells glorious eyes,</l>
+               <l>Whilst God in heaven doth thee impatronize:</l>
+               <l>God gave man life, sinne death, and God agen</l>
+               <l>Gave his owne onely sonne to die for men.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:8"/>
+               <l>For thee he dide, brave Earle, he dide for thee,</l>
+               <l>Not for thou wert so glorious and so wise</l>
+               <l>Hee made thee so, but Nature, oh t'was she</l>
+               <l>Wrought thy sad ruine, which my dolefull eyes</l>
+               <l>For ever mourne, like <hi>Vestaes</hi> sacrifice;</l>
+               <l>And well-nie leave their house, oh more then hell!</l>
+               <l>To see him so misled, which led so well.</l>
+            </lg>
+            <lg>
+               <l>Heavens smile on him, all ioy his soule betide,</l>
+               <l>And everlasting praise his name attend,</l>
+               <l>Also his sinnes with Iesus blood be dide:</l>
+               <l>Farewell faire soule, with Saint and Angells spend</l>
+               <l>Thy age in heaven, whose daies have never end:</l>
+               <l>I'le leave thee to still rest, and tune my song</l>
+               <l>To speake of Britaine, which lies buried long.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">Britaine of her selfe.</note>Of Britaine, why? who ever heard that name?</l>
+               <l>Oh doe not heires of younger world despise</l>
+               <l>Me though now old, oh do not shew your shame!</l>
+               <l>Thus wept she faire, which made my watry eyes</l>
+               <l>Raine showres of woe for her indignities.</l>
+               <l>Doubtfull she was her sorrowes to renew,</l>
+               <l>At last poore hart, she thus began anew.</l>
+            </lg>
+            <lg>
+               <l>Oh why did I most wretched wight alive!</l>
+               <l>Who live and have no life, thus direly plaine,</l>
+               <l>Nay rather why? oh why do I survive!</l>
+               <l>Banisht by those that by my glory gaine,</l>
+               <l>Banisht by those that on my breast remaine,</l>
+               <l>Banisht by those that what they have is mine,</l>
+               <l>Change is the sonne of ever-mooving Time.</l>
+            </lg>
+            <pb facs="tcp:176291:8"/>
+            <pb facs="tcp:176291:9"/>
+            <lg>
+               <pb facs="tcp:176291:9"/>
+               <l>Was this the cause ignoble <hi>Vortiger,</hi>
+                  <note place="margin">Horsus and Hengist were hired by Vor<g ref="char:EOLhyphen"/>tiger to serve against the Picts.</note>
+               </l>
+               <l>That thou in Princely armes embrac'd their love,</l>
+               <l>And wast for this, that I did erst prefer</l>
+               <l>Your obscure valure? witnesse God above,</l>
+               <l>My faith vnfainde, and their attainted love:</l>
+               <l>They came to serve, and did their Lord beguile,</l>
+               <l>Shun that slave still, who hath a servile smile.</l>
+            </lg>
+            <lg>
+               <l>Whilome I was, who knowes not what I was.</l>
+               <l>Nurse to great Kings, the greatest Ile my name,</l>
+               <l>Brave Lords, they dide as men, men die as grasse</l>
+               <l>Lopt with the sithe, they live, though dead, my shame,</l>
+               <l>They being dead, I dide and lost my name:</l>
+               <l>As man in toombe, so I in grave was laine,</l>
+               <l>And when I rise, I'le never fall againe.</l>
+            </lg>
+            <lg>
+               <l>Was it not I? I was (then wept) quoth shee,</l>
+               <l>Who forc'd the Roman Egles first retire,<note place="margin">Iulius Caesar repulst by the Britaines.</note>
+               </l>
+               <l>Retire they did: and did not <hi>Caesar</hi> see</l>
+               <l>His <hi>Labian</hi> slaine? Then I with warlike ire,</l>
+               <l>Did chase those men that did my spoile desire:</l>
+               <l>These be old tales, what then? though old they bee,</l>
+               <l>They vnion praise, and with the trueth agree.</l>
+            </lg>
+            <lg>
+               <l>Vnion with trueth agrees, the nerve of state,</l>
+               <l>The soveraigne sinew of a Kingdomes good,</l>
+               <l>Is mutuall love; so disagreeing hate,</l>
+               <l>Vsurpers grace: as hewen Oake in wood</l>
+               <l>Falls with each winde, so falls the raigne of blood:</l>
+               <l>Vnion is heavens good, the best of state,</l>
+               <l>Whom good doth ioyne, let no man seperate.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:10"/>
+               <l>When that the severall Kingdomes of this land,</l>
+               <l>Were bound with loves inviolable chaine,</l>
+               <l>They florisht faire, and wisely did withstand</l>
+               <l>The neighbour strength; when Kings have too large raigne,</l>
+               <l>The wrongs they do, they will with force maintaine:</l>
+               <l>Witnesse thou Queene of Townes, and witnes you</l>
+               <l>Old Roman Peeres, that what I say, is true.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">The state of Britaine in the daies of Nero.</note>Witnesse the sonne of murthered <hi>Agripine,</hi>
+               </l>
+               <l>
+                  <hi>Nero</hi> with shame beheld <hi>Pharasarate,</hi>
+               </l>
+               <l>Victorious Lord: oh doe not <hi>Rome</hi> repine</l>
+               <l>At that great name! that man ordainde by fate,</l>
+               <l>To scourge thy envy and ambitious hate:</l>
+               <l>Hee warr'd, he wan, and Romans ran away,</l>
+               <l>At last he lost, and <hi>Britaine</hi> lost the day.</l>
+            </lg>
+            <lg>
+               <l>Ne onely lost the day, the least of ill,</l>
+               <l>But was enthrall'd more dire to noble eye,</l>
+               <l>Then worst of death, to die is Natures will;</l>
+               <l>Who will withstand? oh God forfend! and why?</l>
+               <l>Are we not borne to live, and live to die?</l>
+               <l>Pay Natures debt: t'is paid, if paid, what then?</l>
+               <l>All should be free, so Nature made all men.</l>
+            </lg>
+            <lg>
+               <l>So Nature made vs all, and so we were,</l>
+               <l>Till fell ambition was yborne of rage;</l>
+               <l>
+                  <hi>Romes</hi> fyre, <hi>Rome</hi> was the vniversall feare,</l>
+               <l>Not feard by me, ne dread by <hi>Arvirage;</hi>
+               </l>
+               <l>
+                  <note place="margin">In the raigne of Claudius.</note>All Kings should scorne the servile vassalage:</l>
+               <l>So did this Prince, so did the Britons all,</l>
+               <l>They lov'd to live in love, all loathed thrall.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:10"/>
+               <l>Loathed of all, but most of all by thee,<note place="margin">Bundues a warlike vir<g ref="char:EOLhyphen"/>gin, vanquisht the Romans.</note>
+               </l>
+               <l>By thee heroicke Nymph of royall line,</l>
+               <l>By thee faire Queene, for love and warre agree,</l>
+               <l>In thy maiestique breast, oh best of mine,</l>
+               <l>Belov'd of me as I was lov'd of thine:</l>
+               <l>Both thou and thine were mine, thou mad'st me free,</l>
+               <l>Strong men by maides subdude not seldome bee.</l>
+            </lg>
+            <lg>
+               <l>Subdude they were, but not as oft they bee,</l>
+               <l>By beauteous blaze (thogh thou wert wondrous faire)</l>
+               <l>Subdude they were by armes and warre, by thee</l>
+               <l>Subdude they were, it vanisht like the ayre;</l>
+               <l>Leave nothing to the conquer'd but dispaire:</l>
+               <l>"To hurt is ill, if yee not hurt to death,</l>
+               <l>"Revenge still lives within oppressed breath.</l>
+            </lg>
+            <lg>
+               <l>Revenge still breathes, <hi>Bunduca</hi> may not live,</l>
+               <l>May she not live? oh who will help me mourne!</l>
+               <l>Affinity in woe will woe relieve:</l>
+               <l>Who will relieve my woe? my hart doth burne</l>
+               <l>To see mans state, mans state as winde doth turne:</l>
+               <l>She warr'd and wan, and winning, lost by strife,</l>
+               <l>"Warre is vneth death sure, vncertaine life.</l>
+            </lg>
+            <lg>
+               <l>This was the goodly Girle, that Queene of yore,<note place="margin">Her death.</note>
+               </l>
+               <l>Of whom the worlds best Captaines were afraide,</l>
+               <l>And this was she for whom I greeve the more,</l>
+               <l>Because of late ther liv'd an other maide,</l>
+               <l>By whom <hi>Romes</hi> Prince and Prelate was dismaide:</l>
+               <l>Faire fare thy soule, faiths heire, stil live though dead,</l>
+               <l>Glory thy girlond girds <hi>Augustus</hi> head.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:11"/>
+               <l>
+                  <note place="margin">A memoriall of our late re<g ref="char:EOLhyphen"/>nowned Eli<g ref="char:EOLhyphen"/>zabeth.</note>Oh who will helpe me plaine the maiden Queene?</l>
+               <l>Oh peerelesse Princesse! who will lend me phrase?</l>
+               <l>A hundred tongues they be too few I weene,</l>
+               <l>To trump such faine; grave <hi>Spenser</hi> live a space,</l>
+               <l>And leave the grave, this monument to grace:</l>
+               <l>For bin my braines too drie, oh heavenly fire!</l>
+               <l>"Things bove our sence we gloriously admire.</l>
+            </lg>
+            <lg>
+               <l>Thy glories I admire, celestiall starre,</l>
+               <l>Earthes ornament, whom heaven smiles to see,</l>
+               <l>Wonder of women, Queene of peace and warre,</l>
+               <l>
+                  <hi>Elizabeth,</hi> Saint, daine me leave to bee</l>
+               <l>Thy honours trumpe, sith no man speakes of the:</l>
+               <l>Sleepe still bright Angel, for thy head shall have</l>
+               <l>A Crowne in heaven, though on the earth a grave.</l>
+            </lg>
+            <lg>
+               <l>What grave so gorgeous or great monument,</l>
+               <l>(Composde by Art, or by <hi>Appelles</hi> made)</l>
+               <l>May vaile thy vertues, vertues eminent,</l>
+               <l>What Piramis or farre more pretious shade</l>
+               <l>Enwombes such worth, such heavens envying rade:</l>
+               <l>Glory prowd earth, her body be thy share,</l>
+               <l>"High vertues to all age bequeathed are.</l>
+            </lg>
+            <lg>
+               <l>What age so dull, (pray God I never live</l>
+               <l>To see the day) that will not sound thy name?</l>
+               <l>I will for ever, I for ever give</l>
+               <l>Due Girlond to great deede; forgive my shame,</l>
+               <l>You that have wit to mend, as well as blame:</l>
+               <l>Blame not my wit, you wise, but weigh my will,</l>
+               <l>Love is esteemed where there is no skill.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:11"/>
+               <l>I can no skill, the greater bin my love,</l>
+               <l>Nay rather, I adore thy princely herse,</l>
+               <l>Whome cannot such a dolefull vision move</l>
+               <l>To plaine? Oh sad aspect! what sable verse</l>
+               <l>Enwrappes such woe; or done, such deede reherse:</l>
+               <l>I, many mourne, mourne all, yea all your dayes,</l>
+               <l>Whilst I vnworthy sound her worthiest praise.</l>
+            </lg>
+            <lg>
+               <l>Whilome did live, there liv'd a Virgine heere,</l>
+               <l>Of bloud all royall, and of heavenly line,</l>
+               <l>And when she liv'd, there liv'd a mighty peere:</l>
+               <l>Much honor'd <hi>Dudley,</hi> pardon my prowd rime,</l>
+               <l>Which thinkes vpon that more than glorious time:</l>
+               <l>"Whom kings respect, thogh they affect the right,</l>
+               <l>"Yet men will say they erre, because they might.</l>
+            </lg>
+            <lg>
+               <l>Valiant thou wert, so wert thou also wise,</l>
+               <l>Patient in perill, prone to every good,</l>
+               <l>Belov'd of men, and gracde by soveraigne eyes,</l>
+               <l>Cleere was thy thought, as cleere as cristall flood,</l>
+               <l>Loyall thy love, and royall was thy blood:</l>
+               <l>"Fain'd rumour shuns all trueth, beleeve not fame,</l>
+               <l>She staines the white as snowe, the purest name.</l>
+            </lg>
+            <lg>
+               <l>What though thy fathers crime gainst maiestie,</l>
+               <l>Did somewhat darke the shine of thy great name?</l>
+               <l>Yet did thy hand, those wreckes reedifie:</l>
+               <l>By thee was layde that Arch and gorgeous frame</l>
+               <l>Whereon is built your everlasting fame:<note place="margin">Sir Philip Sid<g ref="char:EOLunhyphen"/>ney the orna<g ref="char:EOLhyphen"/>ment of his race.</note>
+               </l>
+               <l>When <hi>Sidney</hi> fell, all fear'd the Towre would fall,</l>
+               <l>Men raise their names, names raise no men at all.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:12"/>
+               <l>
+                  <note place="margin">Sir William Sitsilt lorde Treasurer.</note>Not long ere this there was a reverent man,</l>
+               <l>Whose issue lives, live brave, and ever good,</l>
+               <l>He treasur'd vertue and bright honour wan</l>
+               <l>In midst of Envy, and as Oake in wood,</l>
+               <l>With age he fell, and falling, raisde his blood:</l>
+               <l>Blood woorthy praise, live faire and flourish long,</l>
+               <l>"Who firmely builds, must lay foundation strong.</l>
+            </lg>
+            <lg>
+               <l>Oh thou for ever good, for ever wise,</l>
+               <l>Magnifike father of best tempred braine.</l>
+               <l>Be ever gracde and glorious in the eies</l>
+               <l>Of all the world, enioy the world againe,</l>
+               <l>Live but one day, my duetie begges in vaine:</l>
+               <l>Live but one houre, one minute leave the grave,</l>
+               <l>To see thy childes faire childe all honour have.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">Henry carle of Pembroke.</note>Ne dares my silence shade that mighty peere,</l>
+               <l>Father of two brave Earles, heroicke sire</l>
+               <l>Of Vertues best, whose honour I holde deere</l>
+               <l>And highly estimate; my zeales true fire</l>
+               <l>Enkindled is, and my enflamde desire</l>
+               <l>Ioyes to engrave vpon his glorious herse</l>
+               <l>This epitaph or lamentable verse.</l>
+            </lg>
+            <lg>
+               <l>These liv'd and rul'd, so did a mighty Prince,</l>
+               <l>More mighty than the mightiest of these three,</l>
+               <l>And better than the best which govern'd since,</l>
+               <l>Renowned <hi>Howard</hi> whom we deem'd to bee</l>
+               <l>The perfect Mappe of true Nobilitie:</l>
+               <l>Deserving change from ground I sawe man rise,</l>
+               <l>To dwell with starres and rule amidst the Skies.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:12"/>
+               <l>These were the foure Arch-pillers of the land,<note place="margin">Th. Howard D. of Norff. Ro. Dudley. Erle of Leic: W. Sitsilt L. Burghley. H. erle of Pem<g ref="char:EOLunhyphen"/>brooke Presi<g ref="char:EOLhyphen"/>dēt of Wales.</note>
+               </l>
+               <l>Which the chaste Virgine swayd, who now lies dead</l>
+               <l>In deepe of ground, her white and soueraigne hand</l>
+               <l>Rests in the vaulted dust, whose glorious head</l>
+               <l>Is crown'd with earth, which is a Kings last bed:</l>
+               <l>Dreame on faire Queene in ioy, and my lament</l>
+               <l>With the worlds woe, shall be thy monument.</l>
+            </lg>
+            <lg>
+               <l>Tis Brittaine weeps, thy mother weepes for thee,</l>
+               <l>For thee it weepes, and also mournes for these,</l>
+               <l>For these she mournes, whom whilome I did see</l>
+               <l>With grave advise and not ignoble ease,</l>
+               <l>Secure the land, where rulde the Queene of Peace:</l>
+               <l>Peace be with thee faire Queen, with these, &amp; them</l>
+               <l>Which faine would haue olde Brittaine live agen.</l>
+            </lg>
+            <lg>
+               <l>Oh now I could distill my eyes in teares,</l>
+               <l>And waste my braine, my wit, and all I had,</l>
+               <l>To thinke vpon those vertues-bearing beares,</l>
+               <l>But that I see (sweete sight) which makes me glad,</l>
+               <l>Better succeede, than those who were not bad:</l>
+               <l>The frozen north dare gaze on heavens shine,</l>
+               <l>So doth on these the humble thought of mine.</l>
+            </lg>
+            <lg>
+               <l>Bright troopes of Angells ever waite on thee,</l>
+               <l>And be thou gracde with ev'ry mortall pen,</l>
+               <l>Immaculare, vnstainde, chaste Virgine bee,</l>
+               <l>Ador'd by all which have the name of Men,</l>
+               <l>Live with the Lambe in new Hierusalem.</l>
+               <l>Saint, daine my Sonnet to salute thy vrne,</l>
+               <l>I will not ioy when all the world doth mourne.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:13"/>
+               <l>I'le ever mourne for thee, and also grieve,</l>
+               <l>For one before she ever was, was Queene,</l>
+               <l>Queene <hi>Helena,</hi> bright <hi>Helena</hi> must live;</l>
+               <l>Oh live for ever blest, thou best I weene</l>
+               <l>Of all thy sex, live ever in esteeme:</l>
+               <l>Burne bright (brave Empresse) let thy lustre shine,</l>
+               <l>Like to the mother of good <hi>Constantine.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">The Emperor Constantine the first, sonne to Helen a Britonesse had this land in good repu<g ref="char:EOLhyphen"/>tation.</note>Thou best of women, which to men didst bring,</l>
+               <l>That sonne of wonder, worthy <hi>Constantine,</hi>
+               </l>
+               <l>The wide worldes Emp'rour, and the Brittaine king:</l>
+               <l>When he was borne, my name bare goodly shine,</l>
+               <l>Which held a Queene who had a sonne divine:</l>
+               <l>Then was I famous, and did seeme to be,</l>
+               <l>The seate of this worldes rarest maiestie.</l>
+            </lg>
+            <lg>
+               <l>The Roman Court was resident in <hi>Troy,</hi>
+               </l>
+               <l>And from earths farthest corners hither came</l>
+               <l>Innumerable Lordes, who all did ioy,</l>
+               <l>That <hi>Europes</hi> empires ever-during frame,</l>
+               <l>Was layde in this large Ile of greatest name:</l>
+               <l>
+                  <hi>Rome</hi> gave consent, the subiect kings did smile,</l>
+               <l>To see their Lord and soveraigne in this Ile.</l>
+            </lg>
+            <lg>
+               <l>Then were we famous, glorious every where,</l>
+               <l>Whom now the world doth estimate to be</l>
+               <l>Of no repute; then did our valure beare</l>
+               <l>A faire regarde, much honor'd then was he,</l>
+               <l>Who could from vs derive his pedigree:</l>
+               <l>Oh age (dread Lord) thou wrong'st these heires of mine,</l>
+               <l>Men are but slaves, and subiect vnto Time.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:13"/>
+               <l>
+                  <hi>Arthur</hi> whome all the Antients grace so much</l>
+               <l>Certes was prudent, and of spirite hie,</l>
+               <l>A valiant king; albee he were not such</l>
+               <l>As Wisards faine: his fortune he did trie</l>
+               <l>Twelve times against the strength of <hi>Germany:</hi>
+               </l>
+               <l>Twelve times the Saxon kings he overcame,</l>
+               <l>
+                  <hi>Arthur</hi> did much, yet did not more than man.</l>
+            </lg>
+            <lg>
+               <l>As from the mountaine toppe a sea of raine</l>
+               <l>Which falles like sodaine tempest on the vale,</l>
+               <l>Doth with his channell drowne the neighbor plaine,</l>
+               <l>Or as a ship which is devour'd by whale,</l>
+               <l>When sea-men iudge no danger there at all:</l>
+               <l>So man which sailes within a shippe of clay,</l>
+               <l>By sodaine storme of fate is castaway.</l>
+            </lg>
+            <lg>
+               <l>Gainst Scythian, Roman, Saxon, Pict and Dane,</l>
+               <l>I did my valiant band of youthes darraine,</l>
+               <l>And ever wan, till discord shew'd the lane</l>
+               <l>To enter me, Peeres envy, and disdaine,</l>
+               <l>Disturbe the peace of every quiet raigne.</l>
+               <l>
+                  <hi>Caesar</hi> had never liv'd to vanquish me,</l>
+               <l>Had it not bin for traitrous treachery.</l>
+            </lg>
+            <lg>
+               <l>But how the Saxon came the world doth know,</l>
+               <l>And witnes <hi>Sarums</hi> field defilde with blood,</l>
+               <l>So may the weake, the warlike overthrowe,</l>
+               <l>The worst the best, as perish'd trees in wood</l>
+               <l>Deceive the sight, so doe the bad, the good:</l>
+               <l>Trie and then trust, give credite by delay,</l>
+               <l>"The fained friends with fairest lookes betray.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:14"/>
+               <l>Much like the antient Lordes of <hi>Rome</hi> we were,</l>
+               <l>Selected chiefetaines never borne to yield,</l>
+               <l>Forward to charge, but wary to forbeare,</l>
+               <l>In counsell grave, couragious in the field,</l>
+               <l>Heartes serv'd as swords, our wisedome was our shield:</l>
+               <l>Corslets and Coats did seeme alike to me,</l>
+               <l>"Continuall ease ennerves virilitie.</l>
+            </lg>
+            <lg>
+               <l>But what of <hi>Rome?</hi> Oh <hi>Rome,</hi> I waile thy fall,</l>
+               <l>Thy ruines rude no rudenesse was in thee,</l>
+               <l>Whilst <hi>Rome</hi> thou wert, what name shall we thee call?</l>
+               <l>Not <hi>Rome,</hi> for <hi>Rome</hi> was burnt, that name we see</l>
+               <l>Is onely left of all; thus all must bee:</l>
+               <l>Thus all must vanish, all the world is vaine,</l>
+               <l>"Each state must turne, though not returne againe.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">The downfall of the Roman Empire.</note>Where be thy antique swaines and sheepeheards fled?</l>
+               <l>Where reverent <hi>Numa?</hi> where the brothers brave?</l>
+               <l>What, bin they all to die? or be they led</l>
+               <l>To some more noble place? where they shall have</l>
+               <l>A larger rule, their kingdome is a grave.</l>
+               <l>This boast (prowde <hi>Rome</hi>) the worlde enrounding wall,</l>
+               <l>My rule must end, when God hath ended all.</l>
+            </lg>
+            <lg>
+               <l>Thy rule must end, and all thy glory die,</l>
+               <l>Thy glory which was wont in former time</l>
+               <l>To overspreade the plaine beneath the skie,</l>
+               <l>All beneath heaven was <hi>Rome,</hi> for all was thine,</l>
+               <l>But nought save worst is left. Bad out-lives Time:</l>
+               <l>Time, see thy worthiest spoyle: and see oh man,</l>
+               <l>Times pray to pray, thy period is a span.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:14"/>
+               <l>Thou that of all wast Queene, oh point to mee</l>
+               <l>One abiect kingdome, never yet so poore,</l>
+               <l>Which honours thee oh <hi>Rome,</hi> or daignes to bee</l>
+               <l>Thy vassall; no, but rather thou the whoore,</l>
+               <l>Poynted to be the Friers Paramour:</l>
+               <l>Vouchsafe to heare (dread Queene) oh pardon me,</l>
+               <l>Tis better not to be, than bad to be.</l>
+            </lg>
+            <lg>
+               <l>Would not this grieve that noble breast of thine,</l>
+               <l>Kings hating <hi>Brute?</hi> I know it would, and more,</l>
+               <l>Yea more than all the zealous <hi>Constantine,</hi>
+               </l>
+               <l>And would not <hi>Caesar</hi> mourne? and many more</l>
+               <l>Bewaile thy woe, who never wept before?</l>
+               <l>Oh well befall thy name, that nobly good,</l>
+               <l>Stands like an Image, without life or blood.</l>
+            </lg>
+            <lg>
+               <l>But all the Nobles lien lowe in dust,</l>
+               <l>In lowest dust as if they never were,</l>
+               <l>Never so glorious: Thus all glory must</l>
+               <l>Be seeld in chest, and layd in balefull beare,</l>
+               <l>Happy the man who never knew to feare:</l>
+               <l>Yea more than wise thrice happy <hi>Caesar</hi> then,</l>
+               <l>Who knew'st to die but once, so die brave men.</l>
+            </lg>
+            <lg>
+               <l>Where is that <hi>Caesar</hi> now? oh where be they</l>
+               <l>Which scar'd the world? where be those warriors now</l>
+               <l>Transported through each plage? whose valiant eie</l>
+               <l>Did ne're ypall to feare, they knew not how:</l>
+               <l>Great ioynts growe stiffe, the weaker daigne to bow:</l>
+               <l>Be they all dead? All dead they be: what then?</l>
+               <l>We all must die, because we all are men.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:15"/>
+               <l>Where be those foure life-rending chariots? where?</l>
+               <l>Yea, where be those imperiall trophees layde?</l>
+               <l>Spoyles worthy thee, when as thy browe did beare</l>
+               <l>That golden circle, oh me seemes it prayd,</l>
+               <l>To round that spheare, thy head, where honor swayd:</l>
+               <l>And wilt thou <hi>Brute?</hi> no more: oh more than death,</l>
+               <l>To die by him, to whom he gave twice breath.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">Caesar falling <gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>der the sta<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>e of Pom<g ref="char:EOLhyphen"/>pey, the image <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>led.</note>Ne boast thou <hi>Brute,</hi> ne glory of the deede,</l>
+               <l>For blacke it was and horride to the view,</l>
+               <l>Sad spectacle, when senslesse shadowes bleede,</l>
+               <l>And wel-nie feele the wounde, but all of you</l>
+               <l>Shall die bad death, who did your hands imbrew</l>
+               <l>In blood. <hi>Brute</hi> thus, Oh who will murther mee?</l>
+               <l>None but thy frend, thy frend was stabb'd by thee.</l>
+            </lg>
+            <lg>
+               <l>This world is like vnto a common Inne,</l>
+               <l>Where <hi>Adams</hi> childe doth live as passenger,</l>
+               <l>Here some, one day, some, many daies have bin,</l>
+               <l>Some Arts, some warre, some court, some law preferre,</l>
+               <l>We all agree in this; All wandring erre,</l>
+               <l>Who is advauncde may fall, and mount agen,</l>
+               <l>The end makes happy or vnhappy men.</l>
+            </lg>
+            <lg>
+               <l>These now have all, and even these agen</l>
+               <l>Have nought at all; our state like heavens move,</l>
+               <l>God governes Kings, though Kings do governe men,</l>
+               <l>Inferior things are rulde by things above,</l>
+               <l>Kings punish men, and God may Kings reprove,</l>
+               <l>This world is made of change, by which we see,</l>
+               <l>"All men are subiect to calamitie.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:15"/>
+               <l>Tumult doth order, order tumult gaine,</l>
+               <l>From ruine life, from life doth ruine spring,</l>
+               <l>Peace warre ensues, warre peace, then strife againe</l>
+               <l>Begetteth blood, blood ease, long ease doth bring</l>
+               <l>Envie, then feare, t'is feare corrupts a King:</l>
+               <l>If thou wilt trust, trust death, for she is sure,</l>
+               <l>"What's made of earth must perish, not endure.</l>
+            </lg>
+            <lg>
+               <l>Who tells of <hi>Nola</hi> and thy golden vrne</l>
+               <l>Which didst so oft the royall bird bespread?<note place="margin">Marcellus.</note>
+               </l>
+               <l>Who <hi>Romes</hi> forgetfull pride? or who doth mourne</l>
+               <l>
+                  <hi>Scipioes</hi> exile? fowle dust must crowne the head</l>
+               <l>Of every one which is by Nature bred:</l>
+               <l>Heaven stand still, <hi>Caupernicuus</hi> we see,</l>
+               <l>The earth is mov'd by mans inconstancie.</l>
+            </lg>
+            <lg>
+               <l>Where's <hi>Haniball?</hi> oh <hi>Carthage</hi> where art thou?</l>
+               <l>Where <hi>Hasdruball? Hamilcar</hi> where? oh where</l>
+               <l>Be the old Roman spoiles? whenas you slew</l>
+               <l>So many Knights, whose Kingdomes had no meare,</l>
+               <l>Till you confinde their raigne with endlesse feare:</l>
+               <l>
+                  <hi>Cato</hi> (too cruell) dooth thy ruine crave,</l>
+               <l>"<hi>Rome</hi> is secure, securitie breedes care.</l>
+            </lg>
+            <lg>
+               <l>Oh <hi>Rome!</hi> thou lively image of my pride,</l>
+               <l>And <hi>Carthage,</hi> thou my ruines ayrie shade,</l>
+               <l>Your noble brats, whose praises wonten wide</l>
+               <l>To trumpe your fame with all subverting blade</l>
+               <l>Exprest your worth, which vanish'd as a shade:</l>
+               <l>So florish'd I, so fell, so florish'd mine,</l>
+               <l>"And so they fell, rule is the spoile of time.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:16"/>
+               <l>
+                  <note place="margin">Constantius with an army of Britaine youthes, over<g ref="char:EOLhyphen"/>threw the Ro<g ref="char:EOLhyphen"/>man Legions.</note>The worlds elected Monarch hence withdrew</l>
+               <l>My budding hopes, the twigges of mightie tree,</l>
+               <l>With which the Roman Oakes he over-threw,</l>
+               <l>In recompence whereof, he gave to mee</l>
+               <l>That part of <hi>France,</hi> now cleaped <hi>Britanie:</hi>
+               </l>
+               <l>Oh then I was, yea that aggreeves me most,</l>
+               <l>They have no cause to plaine that never lost.</l>
+            </lg>
+            <lg>
+               <l>How many Roman Emprors did I see,</l>
+               <l>All feare begon, vnto their ships retire,</l>
+               <l>Chacde by the valiant Kings of <hi>Britanie;</hi>
+               </l>
+               <l>When I was whole, vnrented and entire,</l>
+               <l>My strength was term'd the barre of <hi>Romes</hi> desire:</l>
+               <l>Ne did, or ever could she vanquish me,</l>
+               <l>But by fain'd faith, friends infidelitie.</l>
+            </lg>
+            <lg>
+               <l>The second constance both in worth and name</l>
+               <l>
+                  <note place="margin">Constance by seducing ma<g ref="char:EOLhyphen"/>ny Britaines to defend his rule, much impaired the force of this Iland.</note>Did finish what his grandfather began,</l>
+               <l>And left me desolate, as barren dame</l>
+               <l>Withouten sonne, the baite of honour wan</l>
+               <l>My best of youth, and left me scarce a man:</l>
+               <l>Youth's prone to erre, and honour will allure</l>
+               <l>"The grave foresight, to build on hope vnsure.</l>
+            </lg>
+            <lg>
+               <l>Hope is vnsure, vncertaine mans estate,</l>
+               <l>Which as a sea by wind of divers sect</l>
+               <l>Is much enrag'd, each sprinckle seemes to hate</l>
+               <l>
+                  <note place="margin">Galfredus.</note>The neighbours height; so man, or mans defect</l>
+               <l>The sence envies or sacred intellect:</l>
+               <l>And to returne, (great Clerke) I end with thee,</l>
+               <l>Valure did never vanquish <hi>Britanie.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:16"/>
+               <l>Now do I wander, <hi>Cato</hi> sees me erre,</l>
+               <l>Smile not sterne churle on my licentious vaine,</l>
+               <l>Things done long since, together I conferre,</l>
+               <l>Whose solide bosomes do in them containe</l>
+               <l>The noble gifts, which doe with vnion raigne:</l>
+               <l>Some say I am obscure, looke well, then vaine</l>
+               <l>You may me iudge, but iudge me also plaine.</l>
+            </lg>
+            <lg>
+               <l>That likes me best, my breast is ever bare,</l>
+               <l>No Statist I to mannage great affaire,</l>
+               <l>Though I them praise; if that defect may dare</l>
+               <l>Attempt such worth, such worth the lofty ayre</l>
+               <l>Of some more noble Bard should blazon faire:</l>
+               <l>Kings are like Gods, most like when they be iust,</l>
+               <l>Celestiall vertue lives in toombes of dust.</l>
+            </lg>
+            <lg>
+               <l>I iealous am, and do admire the Peere</l>
+               <l>Who prisons wrath, and patient seemes to bee?</l>
+               <l>Who is imployd and held of soveraigne deere,</l>
+               <l>Yet will have nought save honour? honour hee</l>
+               <l>Esteemes bove all that can him given bee:</l>
+               <l>She gives immortall daies, oh ever blest!</l>
+               <l>Who spares no travell for a Kingdomes rest.</l>
+            </lg>
+            <lg>
+               <l>That man I love, that man I honour much,</l>
+               <l>Who's inlie wife, and spends the tedious day</l>
+               <l>In grave fore-sight; if there be any such,</l>
+               <l>(As many bee) me ioyes, I those be they</l>
+               <l>That doe what's iust, but do not what they may:</l>
+               <l>These be all fire and ioyn'd with Lyons these,</l>
+               <l>Who pleasing God, their King do also please.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:17"/>
+               <l>I will not smoothe, ne am I parasite</l>
+               <l>To any state, ne was I borne to bee</l>
+               <l>The slave of Time, ne ever will I write</l>
+               <l>In smoother lay, as many seeme to mee,</l>
+               <l>Which praise earths worst, because they worthy bee:</l>
+               <l>Worthy? oh no! no worth doth live in them,</l>
+               <l>Save their great names, which makes them seem great men.</l>
+            </lg>
+            <lg>
+               <l>I cannot honour vice, ne dares my pen</l>
+               <l>Maske vgly shape of sinne, it shunnes the hire</l>
+               <l>Of base reward; you dead but glorious men,</l>
+               <l>Whose glories live and greatnesse I admire,</l>
+               <l>Perswades me sing, and with this rude attire</l>
+               <l>Clothe your halfe-rotten bones, and to your herse,</l>
+               <l>Vouchsafe me consecrate my sable verse.</l>
+            </lg>
+            <lg>
+               <l>Mee thinkes I could an hoary period spend</l>
+               <l>In this harmonious golden Paradise,</l>
+               <l>This pallace of all good, this goodly end,</l>
+               <l>End of all good, all good doth simpathize,</l>
+               <l>In him that's great, and being great, is wise:</l>
+               <l>Not lovely front which fades, but learned braine</l>
+               <l>Gaines honour true, true honour is not vaine.</l>
+            </lg>
+            <lg>
+               <l>Things which continuance long did lift on hie,</l>
+               <l>Whose weldie base was iudgement and advise,</l>
+               <l>Stand on immoved rocke as firme as skie,</l>
+               <l>Which though it move, and that in lasting wise,</l>
+               <l>Yet heaven is still, though there be mooving skies:</l>
+               <l>Such honour as the tide may ebbe and flow,</l>
+               <l>"Vertue must live, albe it may lie low.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:17"/>
+               <l>Such honour is true honour and true praise,</l>
+               <l>Such honour and such praise the Romans wan,</l>
+               <l>The Graecians such; those were magnifique dayes,</l>
+               <l>Liberall to merites due: for as I scan,</l>
+               <l>"None should weare honor, but who honor wan.</l>
+               <l>Thou spurre of doing well, no more of such,</l>
+               <l>Lest that I seeme to praise my selfe too much.</l>
+            </lg>
+            <lg>
+               <l>To praise my selfe, fie, that were too great sinne,</l>
+               <l>So diffrent from the humble thought of mine,</l>
+               <l>As man from being good, or good to winne</l>
+               <l>By his deserve, my merits have no shine,</l>
+               <l>For they bin gaz'd by planets feminine:</l>
+               <l>The sad event of things perswades me see,</l>
+               <l>
+                  <hi>Saturne</hi> was Lord of my nativitie.</l>
+            </lg>
+            <lg>
+               <l>But you whose starres the Sunne and Venus were,<note place="margin">To England.</note>
+               </l>
+               <l>Predestinate to every noble deede,</l>
+               <l>Looke on me wretch, looke, but you must not feare</l>
+               <l>The like effect, succesfull be your seede</l>
+               <l>And noble heires, which from your lines proceede:</l>
+               <l>Yet daine to stop bright eyes, and you shall see,</l>
+               <l>Ambition wrought the wracke of <hi>Britanie.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Inhumane monster, borne of <hi>Adams</hi> pride,<note place="margin">Ambition the ruine of Bri<g ref="char:EOLhyphen"/>taine.</note>
+               </l>
+               <l>
+                  <hi>Eves</hi> wish, sinnes scourge, Gods wrath, heavens iust ire,</l>
+               <l>Earths shame, hells sonne, bloods river, envies pride,</l>
+               <l>Natures defect, deaths Queene, intestine fire,</l>
+               <l>Mens grave, Kings feare, worlds woe, mans first desire;</l>
+               <l>Ambition is th'essentiall cause of warre,</l>
+               <l>Heavens bad prophet, murther blazing starre.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:18"/>
+               <l>State rending hooke, ambition is a fire,</l>
+               <l>Which though it smothered lie in deepe of breast,</l>
+               <l>Still lively breathes, (how boundlesse is desire)</l>
+               <l>And scornes prowd barre, albee that wisedome wrest</l>
+               <l>Natures worst gift, yet nature cannot rest,</l>
+               <l>But doth vnmaske her blame, blame worthy all</l>
+               <l>Who raise their fortunes by a kingdomes fall.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">Ambition the child of envy.</note>Ambition is selfe-praising envies childe,</l>
+               <l>Who doth beget of wrath, disdaine and rage,</l>
+               <l>Citties sad spoiles, where many worthies pilde</l>
+               <l>In heapes consume, and she in every age</l>
+               <l>Workes strange effects vpon this lower stage:</l>
+               <l>Shee's deere to all, but most to them on hie,</l>
+               <l>"Ambition seldome lives with miserie.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">Ambition the roote of harme.</note>Ambition is the roote of every ill,</l>
+               <l>Whence discord (civill monster) doth arise</l>
+               <l>Like Snake from dung: so springs inhumane will</l>
+               <l>From heape of clay, sedition is all eyes,</l>
+               <l>Which as a States-man to each secret pries:</l>
+               <l>The ladder to ascend the breach of wall,</l>
+               <l>"Intestine tumult workes a Kingdomes fall.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">Love, the best defence.</note>Who cannot hold a rocke-ymounted Towre,</l>
+               <l>Guarded by nature and more mighty love?</l>
+               <l>More mighty then a Kingdomes royall powre;</l>
+               <l>But if these good effects contention move,</l>
+               <l>They'le eyther die as slaves, or servants prove:</l>
+               <l>"Experienc'd faith doth firme affection breede,</l>
+               <l>"He is a friend that is a friend in neede.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:18"/>
+               <l>As mighty hulke in midst of hugy wave,</l>
+               <l>The prise for whom two sturdie windes contend,</l>
+               <l>Deemes that each Tempest doth her ruine crave:</l>
+               <l>So must the state where all to greatnesse tend,</l>
+               <l>As man proscript, fore-see his suddaine end:</l>
+               <l>Heaven and earth by this distinguish'd bee,</l>
+               <l>Earth hath all variance, heaven harmonie.</l>
+            </lg>
+            <lg>
+               <l>Oh cleere our eyes, lest we be wilfull blinde!<note place="margin">Discord the end of ambi<g ref="char:EOLhyphen"/>tion.</note>
+               </l>
+               <l>This wrath of God and vengeance doth allure</l>
+               <l>Man to kill man, which doth offend the minde;</l>
+               <l>Her smoother front such venome doth immure,</l>
+               <l>As who thereof doth taste, is poisned sure:</l>
+               <l>Sence against nature strives, shee loves a meane,</l>
+               <l>What's ever bad, that's ever in extreame!</l>
+            </lg>
+            <lg>
+               <l>Some hunt for praise and spend their words in vaine,<note place="margin">Discontent<g ref="char:EOLhyphen"/>ment the cause of dis<g ref="char:EOLhyphen"/>cord.</note>
+               </l>
+               <l>Vaine words whose end do nourish discontent,</l>
+               <l>Which as a stole o're vailes the wiser braine,</l>
+               <l>Hope blindes defect, the hope of great event</l>
+               <l>Makes man thinke ill, and that is discontent:</l>
+               <l>Murmurs ambiguous phrase, and saies all's bad,</l>
+               <l>A selfe-conceit will make a young man mad.</l>
+            </lg>
+            <lg>
+               <l>Such idle ideots, none but such as these,<note place="margin">Discontent, the issue of prodigalitie.</note>
+               </l>
+               <l>(Which nothing have, and therefore cannot loose,)</l>
+               <l>Like warre, because they cannot live in peace,</l>
+               <l>Peace thou wide organ, silence rather choose,</l>
+               <l>He needes must erre, whose tongue is ever loose:</l>
+               <l>In warre wee'le vse thee, but in peace be dumbe,</l>
+               <l>The valiant man himselfe should overcome.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:19"/>
+               <l>I doe not now, ne will I ever blame</l>
+               <l>True Fortitude, whose trumpet I will bee,</l>
+               <l>If she do daigne mee grace to sound her name:</l>
+               <l>But thou whose feathred Crest cries lowd to mee,</l>
+               <l>Thou loath'st the Campe and lov'st the Canopie:</l>
+               <l>T'is thee I swinge, and with an yron rod,</l>
+               <l>A hardned hart feeles not the wrath of God.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">The rand of Discord.</note>Who feares not God, can he doe ever good?</l>
+               <l>But such as these the seede of discord sow,</l>
+               <l>Which nothing reape but ruine, rape and blood;</l>
+               <l>Blood askes revenge, and vengeance comes, though slow,</l>
+               <l>But where is peace, there milke &amp; hony flow:</l>
+               <l>Peace is the soveraigne salve of wounded weale,</l>
+               <l>What Armes hurt that amity doth heale.</l>
+            </lg>
+            <lg>
+               <l>Where peace is, there is vniversall love,</l>
+               <l>
+                  <note place="margin">The happines which doth attend vnion.</note>Where love, there lawes to all alike remaine,</l>
+               <l>There equall lawe, where Iustice sphere doth move</l>
+               <l>To all aspect; where ever iustice raigne,</l>
+               <l>There's ever peace, t'is peace doth iustice gaine:</l>
+               <l>Peace doth vnite, and vnion is the tree,</l>
+               <l>Love is the roote, the fruit felicitie.</l>
+            </lg>
+            <lg>
+               <l>Turne over all the wonder of old daies,</l>
+               <l>And in them all thy iudgement may behold,</l>
+               <l>What ever merites honour, or what praise,</l>
+               <l>What florisht yong, and what was nobly old</l>
+               <l>Was gainde by love, and held by being bold:</l>
+               <l>
+                  <hi>Ser<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rius</hi> maine <hi>Misipsa<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> band of wood,</l>
+               <l>Emblaze loves worth, vnited force is good.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:19"/>
+               <l>Looke in the yonger world, and there, there see</l>
+               <l>How all their woes by envy erst was bred,</l>
+               <l>Humble thy haughty eie, and looke on me,</l>
+               <l>On me most faire, where envy ever fed,</l>
+               <l>How much I was by Vnion honored:</l>
+               <l>Hee's exc'lent who prevents; and he is wise,</l>
+               <l>Who by example second mischiefe flies.</l>
+            </lg>
+            <lg>
+               <l>Behold the factious <hi>Guelph</hi> and <hi>Gibeline,</hi>
+                  <note place="margin">The dissenti<g ref="char:EOLunhyphen"/>on of Italie.</note>
+               </l>
+               <l>See <hi>Millaine</hi> burne, and see the Roman ire,</l>
+               <l>See <hi>Fredericke</hi> rage, and see the Florentine</l>
+               <l>In civile armes, see <hi>Naples</hi> set on fire</l>
+               <l>With inward brawle; what limit hath Desire?</l>
+               <l>When wilt thou end? Tis ended, and what thoo<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>"The end of griefe beginnes another woe.</l>
+            </lg>
+            <lg>
+               <l>Me thinkes I take the young mans taske in hand,</l>
+               <l>Or with ground-issue threate the ayrie King:</l>
+               <l>Oh stay thy thunder! I amazed stand,</l>
+               <l>And rather help and wisedome to him bring,</l>
+               <l>Who glories of thy Iustice for to sing:</l>
+               <l>For what else is dissention in a State,</l>
+               <l>But plague powrde downe, such powre to ruinate.</l>
+            </lg>
+            <lg>
+               <l>Strike the Stage dombe, thou tragike Muse of mine,</l>
+               <l>And let my crimson Clarion lowdly yell,</l>
+               <l>Aloft yee Numbers in more stately rime,</l>
+               <l>And to this age, this latter world ytell,</l>
+               <l>What diffrence is twixt doing ill and well:</l>
+               <l>Let <hi>Arnus</hi> neighbour <hi>Fiorenza</hi> prove,</l>
+               <l>What she by discord lost, and wan by love.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:20"/>
+               <l>Yet higher yet, as hie as heavens fire,</l>
+               <l>And make the lampes nigh melt to heare thee plaine,</l>
+               <l>For I will sing of nought but rage and ire,</l>
+               <l>Rebells to State, I, these shall sound my straine,</l>
+               <l>Let others others please, I'le please my vaine:</l>
+               <l>Silent thy murmure <hi>Arnus</hi> but a while,</l>
+               <l>Whilst I thy mistris misery compile.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">The discord of the Floren<g ref="char:EOLhyphen"/>tines made them slaves to others.</note>When <hi>Florence</hi> was what <hi>Florence</hi> is not now</l>
+               <l>(More happy she) a dis-vnited state,</l>
+               <l>Then <hi>Florence</hi> did, but <hi>Florence</hi> will not bow</l>
+               <l>To neighbour armes, not armes, but inward hate</l>
+               <l>Made those bright spires of envy desolate:</l>
+               <l>Not <hi>Manferds</hi> rage, though it were all of blood</l>
+               <l>Did wrecke her so, as love did werke her good.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">The pretense of liberty a maske for treason.</note>Oh liberty! thou god of multitude,</l>
+               <l>For which, who would not wish to have a grave</l>
+               <l>Deserves not life; ignoble servitude</l>
+               <l>Shews the base mind, but those which freedome have,</l>
+               <l>A firy sparke their spirits doth embrave:</l>
+               <l>Witnesse thou subiect of my sable sceane,</l>
+               <l>A troubled channell never can be cleane.</l>
+            </lg>
+            <lg>
+               <l>This maske of treason, cloake of discontent,</l>
+               <l>This seeming good, this ensigne of despaire,</l>
+               <l>To which bad troope, this gowne of ill intent,</l>
+               <l>Where riot is enwombde, this outward faire,</l>
+               <l>And inly foule, thou people-chaunting aire,</l>
+               <l>Freedomes sweete type, thou spring of civill blood,</l>
+               <l>What is so bad that hath not shew of good?</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:20"/>
+               <l>Such, or more pleasing musicke did induce</l>
+               <l>The credule crowde of that disordred towne,</l>
+               <l>Where Iealousie (State monster) did abuse</l>
+               <l>The idle rowte, and cast the great men downe;</l>
+               <l>Suspition is the piller of a Crowne.</l>
+               <l>Thus are they slaves in seeking to be free,</l>
+               <l>Where discord is, there is no libertie.</l>
+            </lg>
+            <lg>
+               <l>Now might I rove as Roe or nimble Hinde</l>
+               <l>In world of plaine, a subiect infinite,</l>
+               <l>Such store of matter noble doe I finde,</l>
+               <l>As where my selfe to take, or what to write,</l>
+               <l>I finde election all indefinite:</l>
+               <l>Shall I crave Patience leave? Oh no, t'were sinne,</l>
+               <l>I'le rather end, before I scarce beginne.</l>
+            </lg>
+            <lg>
+               <l>Ne will I write,<note place="margin">A continu<g ref="char:EOLhyphen"/>ance of Itali<g ref="char:EOLunhyphen"/>an discord.</note> ne will I ever sing</l>
+               <l>Of <hi>Nera, Bianch,</hi> ne of <hi>Arigo,</hi>
+               </l>
+               <l>Of <hi>Athens</hi> duke, ne yet of <hi>Naples</hi> king,</l>
+               <l>Too much I feare (pray God it be not so)</l>
+               <l>That I of my infirmitie did show.</l>
+               <l>Shall I of <hi>Rixi</hi> and <hi>Albisi</hi> speake?</l>
+               <l>Tis bad to make a law, and that to breake.</l>
+            </lg>
+            <lg>
+               <l>Ne will I sing of mutuall disagree,</l>
+               <l>(The feare of common men, and nobles pride)</l>
+               <l>Two mighty spurres of civill enmitie:</l>
+               <l>Ne will I longer on this theame abide,</l>
+               <l>But downe descend, let iudgement be my guide:</l>
+               <l>What's best, if tedious, may the best displease,</l>
+               <l>Methode doth more then matter nourish ease.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:21"/>
+               <l>Ne will I treate of <hi>Laurence</hi> nor his sonne,</l>
+               <l>Nor of the famous reverent <hi>Cosimo,</hi>
+               </l>
+               <l>By whome the love of every man was wonne,</l>
+               <l>But I will sing (my Numbers sweetely flowe</l>
+               <l>In pleasing phrase) their houses overthrow:</l>
+               <l>But I will sing, that every man may see,</l>
+               <l>Dissention overthrew all <hi>Italie.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>aur: de Me<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>cis for the <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>fety of Italie <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>id establish <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>oncord be<g ref="char:EOLhyphen"/>tweene the states of Na<g ref="char:EOLhyphen"/>ples, Milaine, and Florence.</note>That much renownd, that famous Florentine,</l>
+               <l>Who whilst he liv'd, was lov'd, and held most deere,</l>
+               <l>Most deere to all that did to peace encline,</l>
+               <l>Most deere to all where vertue did appeare,</l>
+               <l>For he could well the clave of kingdome steere:</l>
+               <l>He whilst he liv'd, combind those kingdoms three,</l>
+               <l>Which severed fell, and scarred <hi>Italie.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>He whilst he lived wellnie did appease</l>
+               <l>
+                  <hi>Lodowickes</hi> iust feare, and wrongde <hi>Alphonsoes</hi> ire,</l>
+               <l>And drew the warlike king to covet ease,</l>
+               <l>Yet would not he to higher grace aspire,</l>
+               <l>For well he could and would subdue desire:</l>
+               <l>For well he knew the wrong which <hi>Galeas</hi> had,</l>
+               <l>But tis not good to make a great man mad.</l>
+            </lg>
+            <lg>
+               <l>For well he knew, and wisely did he feare</l>
+               <l>Ambitious <hi>Venice,</hi> which did thirst for warre,</l>
+               <l>Whose empire tho did greater semblance beare,</l>
+               <l>This league was made their puissance to embarre;</l>
+               <l>All loose save <hi>Venice, Venice</hi> wins by warre:</l>
+               <l>
+                  <note place="margin">Their league.</note>Thus were they bound each other to defend,</l>
+               <l>Tis oddes when three gainst any one contend.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:21"/>
+               <l>Thus did he live as if that he were borne,</l>
+               <l>Not to himselfe, (as great men nowadayes,)</l>
+               <l>But to the publique good, which they nigh scorne,</l>
+               <l>Thus did he live, and prov'd by all assayes</l>
+               <l>To grace his Citty with triumphant praise:</l>
+               <l>He dies in his best dayes, we oft beholde,</l>
+               <l>Soone ripe, soone rot, soone firde, &amp; as soone colde.</l>
+            </lg>
+            <lg>
+               <l>Oh who will lend me griefe and driery dole,</l>
+               <l>And moist these ruby globes, these mournefull eies,</l>
+               <l>My brow should be endarkt with Cyprian stole,</l>
+               <l>Whilst I compose this sable exercise,</l>
+               <l>Vnworthy of maiestique obsequies:</l>
+               <l>Oh well befall that man, his praise be olde</l>
+               <l>That was both temprate, iust, and wisely bolde.</l>
+            </lg>
+            <lg>
+               <l>When <hi>Laurence</hi> dide, then <hi>Peter</hi> did decline,</l>
+               <l>And wholy bent his love to <hi>Ferdinand;</hi>
+               </l>
+               <l>Men saw (as in a cloude which did divine</l>
+               <l>The future storme) confusion neere at hand:</l>
+               <l>Affection is vnable to command.</l>
+               <l>
+                  <hi>Lodowicke</hi> misdoubts; mistrust doth waite on blame,</l>
+               <l>Good cause is bolde, and never feareth shame.</l>
+            </lg>
+            <lg>
+               <l>That subtile Lord knowes well to temporise,</l>
+               <l>And shew smoothe front to his immortall foe;</l>
+               <l>So must he bonnet vaile who will surprise</l>
+               <l>Ordainde revenge, or state vsurpe; and moe,</l>
+               <l>He must seeme good although he be not so:</l>
+               <l>He breakes all league, and calles in forraine warre,<note place="margin">Their divi<g ref="char:EOLhyphen"/>sion.</note>
+               </l>
+               <l>Bad trust not those who know how bad they are.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:22"/>
+               <l>Oh whither wilt? what fury dooth me leade</l>
+               <l>To this vntroden desart, full of wayes?</l>
+               <l>Misdoubt my guide, and which of them to treade</l>
+               <l>Me greatly feares; feare not yee humble layes,</l>
+               <l>To trace the path, and finish your essayes:</l>
+               <l>What <hi>ignis fatuus</hi> doth illude my quil?</l>
+               <l>Reason should governe man, and not his will.</l>
+            </lg>
+            <lg>
+               <l>What brasen quill, or Adamantine pen?</l>
+               <l>What Diamond? or harder instrument,</l>
+               <l>Drencht, and nigh drown'd in blood of dying men?</l>
+               <l>Can limme this mourneful stories sad event,</l>
+               <l>Where ended nigh th'Italian governement:</l>
+               <l>Inbred sedition is the blazing starre,</l>
+               <l>Which lights ambition to ech neighbor warre.</l>
+            </lg>
+            <lg>
+               <l>When <hi>Lodwicke Sforce,</hi> who swaid the Milaine crowne,</l>
+               <l>Sawe <hi>Alphons</hi> grudge at his vsurped state,</l>
+               <l>Because he kept his royall nephew downe,</l>
+               <l>Who married had <hi>Alphonsos</hi> childe of late;</l>
+               <l>He to prevent this wrath of great mens hate,</l>
+               <l>Mov'd <hi>Charles</hi> who had the <hi>Aniowe</hi> title than,</l>
+               <l>To claime the kingdome <hi>Neapolitane.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>See the imperious <hi>Charles,</hi> as tyrant flood,</l>
+               <l>
+                  <note place="margin">The dissenti<g ref="char:EOLhyphen"/>on of Italy made it sub<g ref="char:EOLhyphen"/>iect to forrain dominion:</note>Who overrunnes and wastes the neighbor plaine,</l>
+               <l>Whom neither bulwarke made by earth or wood</l>
+               <l>Can once beate backe, for he like fiery traine,</l>
+               <l>Blowes vp each state, and as a king doth raigne:</l>
+               <l>And doth with Latine sword the Latines beate,</l>
+               <l>Tis ill to make a neighbor king too great.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:22"/>
+               <l>Now <hi>Alphons</hi> vengeance comes with nimble pase,<note place="margin">Their miserie</note>
+               </l>
+               <l>And thou must leave thy Crowne to <hi>Ferdinand:</hi>
+               </l>
+               <l>Thy bad his good, as clowde the skies embase:</l>
+               <l>See <hi>Florence Peter,</hi> see thy rended band</l>
+               <l>Hath shew'd the way for tyrants to command:</l>
+               <l>See <hi>Alexander,</hi> thy ambitious minde,</l>
+               <l>Hath all thy greatnes in a Towre confinde.</l>
+            </lg>
+            <lg>
+               <l>See all of you,<note place="margin">The effects o<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> disagreement</note> yea all the world behold</l>
+               <l>Prowde <hi>Genes</hi> fall, and <hi>Charles</hi> as <hi>Caesar</hi> ride</l>
+               <l>In brave Ovation like the Roman olde:</l>
+               <l>See kingdomes perish by their Princes pride.</l>
+               <l>Blest is the state whose sterne the wise men guide:</l>
+               <l>
+                  <hi>Caponis</hi> courage <hi>Florence</hi> made thee free,</l>
+               <l>The noble minde is tride in miserie.</l>
+            </lg>
+            <lg>
+               <l>See <hi>Naples,</hi> see the period of warres heate,</l>
+               <l>See <hi>Millaine</hi> all on discontented feare;</l>
+               <l>See mighty kings and princes <hi>Charles</hi> intreate,</l>
+               <l>Who as a Roman Emperour thee did beare</l>
+               <l>A soveraigne rule and power ev'ry where:</l>
+               <l>Learne then oh man! from civill warre doth rise,</l>
+               <l>Inhumane death, and all calamities.</l>
+            </lg>
+            <lg>
+               <l>Thus farre my Muse hath with vnchecked straine</l>
+               <l>Sung balefull woe, which doth on discord tend;</l>
+               <l>I therefore wish (let not my wish be vaine)</l>
+               <l>That every soule would in the world contend</l>
+               <l>His life with love and amitie to spend.</l>
+               <l>Hence I conclude what all the world doth see,</l>
+               <l>There is no love, where is no vnitie.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:23"/>
+               <l>I'le leave earths garden to that dire mischance,</l>
+               <l>Which did vnnaturall enmity ensue,</l>
+               <l>For I will bend my course and saile to <hi>France,</hi>
+               </l>
+               <l>Where ev'ry true vnpartiall eie shall view</l>
+               <l>Sad desolation, private murther rue:</l>
+               <l>
+                  <note place="margin">Inequalitie the cause of discord.</note>Where rule vnlike, and diffrent lawes remaine,</l>
+               <l>There must be envy, discord and disdaine.</l>
+            </lg>
+            <lg>
+               <l>Al sweare in one, the valiant English were</l>
+               <l>Enobled by bolde prowesse, and brave deede,</l>
+               <l>Yea Roman-like they triumpht every where,</l>
+               <l>Yea ev'ry where they purchasde glories meede,</l>
+               <l>Contest yee Salique skarres which ever bleede:</l>
+               <l>
+                  <hi>France</hi> (though vnwilling) to the world vnfold</l>
+               <l>Those overthrowes which you receiv'd of old.</l>
+            </lg>
+            <lg>
+               <l>Who can deny? or if they could, who dare?</l>
+               <l>That our victorious ensignes were dispredde</l>
+               <l>Vpon your toplesse towres, and ruines rare,</l>
+               <l>Rare ruines, when your worthiest Peeres were led</l>
+               <l>As captives to the Kings that triumphed:</l>
+               <l>Who doth appeale? reproove, sterne <hi>Edward</hi> tell</l>
+               <l>How the French fled, and <hi>Iohn</hi> at <hi>Poictiers</hi> fell.</l>
+            </lg>
+            <lg>
+               <l>This was but one; yea one againe you saw,</l>
+               <l>Illustrious <hi>Henry, Henry</hi> clad in steele,</l>
+               <l>Courage it selfe, whose courage did endaw</l>
+               <l>Your bold bravado, and as furrowing keele</l>
+               <l>Emplowes the wave, so he with nimble heele</l>
+               <l>Of lusty Roe, and Eagle wing did chase</l>
+               <l>Your wonted flight; to flie is ever base.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:23"/>
+               <l>But now I must, the truth I must confesse,</l>
+               <l>Which is as deere as mine owne soule to mee,</l>
+               <l>Or aught more deere, if aught were more, as lesse</l>
+               <l>It cannot be; deere <hi>England,</hi> deere to mee</l>
+               <l>As truth it selfe, I truly honour thee:</l>
+               <l>Thy Princesse wan, their discord lost,<note place="margin">The discord of France, made Eng<g ref="char:EOLhyphen"/>land victo<g ref="char:EOLhyphen"/>rious.</note> t'was she</l>
+               <l>Brought vs to <hi>France,</hi> she gone, soone parted wee.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Burgoigne</hi> Arch peere and princely <hi>Orlian<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ys,</hi>
+               </l>
+               <l>(The nerves and sinewes of vnsetled state,</l>
+               <l>Equall corrivalls in the welding poyse,)</l>
+               <l>Sdaine others rule, Ambition, rather fate</l>
+               <l>Wrought this all ill, no end hath great mens hate:</l>
+               <l>No end, but when they end, <hi>Valois</hi> began,</l>
+               <l>Short and vncertaine are the daies of man.</l>
+            </lg>
+            <lg>
+               <l>When mighty <hi>Iohn</hi> the Duke of <hi>Burg<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ndy,</hi>
+               </l>
+               <l>Perceiv'd the Kings heroicke brother slaine,</l>
+               <l>He gan to swell with prowd indignitie,</l>
+               <l>Which many Peeres and Princes did complaine,</l>
+               <l>Whom the brave Dolphin did with hope retaine:</l>
+               <l>These all resolve his ruine to conspire,</l>
+               <l>Which they accomplish'd in the height of ire.</l>
+            </lg>
+            <lg>
+               <l>Then did they gin his hardy sonne to brave,</l>
+               <l>
+                  <hi>Charles,</hi> whom no terror ever did amaze,</l>
+               <l>Ne death it selfe, ne very depth of grave;</l>
+               <l>He when he saw his fathers sad disgrace,</l>
+               <l>Gan rowze his Crest against the royall race</l>
+               <l>Of <hi>France,</hi> revenge hath bloody spurres, and she</l>
+               <l>Is soone seduc'd to any crueltie.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:24"/>
+               <l>What though she gaine the worst and nothing gaine,</l>
+               <l>To see the loathed sonne hurl'd downe to ground,</l>
+               <l>Mee thinkes exceedes all diapase or straine</l>
+               <l>Of harmony, and that melodious sound,</l>
+               <l>As costly Balsamum doth salve the wound:</l>
+               <l>The fore-head of revenge is dawbde with good,</l>
+               <l>Albee her inward breast is nought save blood.</l>
+            </lg>
+            <lg>
+               <l>But when the shrub by lofty Oake is prest,</l>
+               <l>How shal he then? how then relieve his woe?</l>
+               <l>Must he complaine? or must he patient rest?</l>
+               <l>Rest without rest, to see the prowd borne foe</l>
+               <l>Daily to rise, himselfe downe lower grow:</l>
+               <l>Must, he do so? oh no, t'is ill, and why?</l>
+               <l>Whoo'd live in shame that might with honour die?</l>
+            </lg>
+            <lg>
+               <l>Those that with honour die, doe ever live,</l>
+               <l>
+                  <note place="margin">Henry the fifth called to the Conquest of France by Charles Duke of Burgundy.</note>But not relieve their wo, that man must then</l>
+               <l>Submit to one more great, who can him give</l>
+               <l>(And will) aspiring hope; the mighty men</l>
+               <l>Still envy those that seeme as great as them:</l>
+               <l>So <hi>Charles</hi> to <hi>Henry</hi> did, so vanquish'd hee,</l>
+               <l>"That Weale must wrecke where great men disagree.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">The effects of intestine sedi<g ref="char:EOLhyphen"/>tion.</note>This as a thunder rage doth cleave in twaine,</l>
+               <l>The well knit pillars of a mighty land,</l>
+               <l>Or as a channell over-rich in raine,</l>
+               <l>Doth vndermine the poasts which nigh it stand,</l>
+               <l>As seem'd to scorne that wood should so command.</l>
+               <l>So private quarrell in a publique State,</l>
+               <l>Like pestilence makes Citties desolate.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:24"/>
+               <l>This like our grandam Earth doth all devoure,</l>
+               <l>The choise of men; and this vnsatiate Boare,</l>
+               <l>Emplows the plaine, where grow the glorious bowre,</l>
+               <l>And not the hilly rocke, ne barren shoare,</l>
+               <l>Where's ever envy, there is ever store:</l>
+               <l>
+                  <hi>Hiena</hi> like this harlot doth beguile,</l>
+               <l>No traitor to the traitor that can smile.</l>
+            </lg>
+            <lg>
+               <l>This horride Hagge, this vgly creature,</l>
+               <l>Which shades defect with some vermilion geare,</l>
+               <l>Ypainted Lady; Ladies now invre</l>
+               <l>Their hands to dawb; poore Art when women weare,</l>
+               <l>(I will not say false faces) but false haire:</l>
+               <l>Pardon (dread Dames) it is not you I meane,</l>
+               <l>But Discord, which is like a painted queane.</l>
+            </lg>
+            <lg>
+               <l>Here might I treade a very world of roome,</l>
+               <l>The Roman Fathers famous farre away,</l>
+               <l>Ere they wage warre abroade, made peace at home,</l>
+               <l>And spent more dayes in stinting civill fray,</l>
+               <l>Than conq'ring all which did their rule gainsay.</l>
+               <l>The Roman State did never land subdue,<note place="margin">Mach: in lib. d<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> principe.</note>
+               </l>
+               <l>Vnlesse her Lordes and Rulers were vntrue.</l>
+            </lg>
+            <lg>
+               <l>Thus whilome did her elder sister fare,</l>
+               <l>So long as <hi>Greece</hi> divided was, so long</l>
+               <l>She was invrde to servitude, and bare</l>
+               <l>No empery, nesdainde to suffer wrong;</l>
+               <l>But being ioyn'd, she daily grew more strong,</l>
+               <l>More strong than all the world, she cleaped then</l>
+               <l>Her selfe the Queene and Governesse of men.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:25"/>
+               <l>
+                  <note place="margin">The com<g ref="char:EOLhyphen"/>mendation of <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nion.</note>Vnion the soule and salve of Common-weale,</l>
+               <l>The soveraigne nerve of state, and kingdomes base,</l>
+               <l>Honours foundation and the prop of zeale,</l>
+               <l>Immortall without end, celestiall grace,</l>
+               <l>The best of all is one, and ever was.</l>
+               <l>The roote of good, bad's end, of all the best,</l>
+               <l>The cause of peace, and peace the cause of rest.</l>
+            </lg>
+            <lg>
+               <l>Is there more Gods then one? one exc'lent good,</l>
+               <l>One water, earth, one ayre, and but one fire,</l>
+               <l>One soule in man, all spirit without blood,</l>
+               <l>One heaven which doth this lower globe engire,</l>
+               <l>One Sunne, one Moone, and one vnquiet sphire</l>
+               <l>Where dwell the stars? I, heavens gree, but wee</l>
+               <l>Loathe heavens love, and that is harmonie.</l>
+            </lg>
+            <lg>
+               <l>God made but one, then man had Paradise,</l>
+               <l>All rise from one, and all to one must tend,</l>
+               <l>The tree is one whence many boughs arise,</l>
+               <l>The graine but one whence many eares extend,</l>
+               <l>Man hath one birth, one birth hath but one end:</l>
+               <l>
+                  <hi>Rome</hi> saw she needed but one Prince to have,</l>
+               <l>"The rule of many is a Kingdomes grave.</l>
+            </lg>
+            <lg>
+               <l>Vnion is that which maketh Kingdomes great</l>
+               <l>And gratious in the eyes of all estate,</l>
+               <l>Nought save the heavens such wonder can beget,</l>
+               <l>It is ere the world was predestinate,</l>
+               <l>To none save those whom Angells estimate:</l>
+               <l>The best of good, Gods elect grace, for he</l>
+               <l>Loves none that doe not live in amitie.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:25"/>
+               <l>All those whom learning famoused of old,</l>
+               <l>All those whom now we reverently adore,</l>
+               <l>All that be skild in Art, in Armes bold,</l>
+               <l>Perfect in aught, yea all the world and more,</l>
+               <l>Heaven it selfe doth vnitie implore:</l>
+               <l>One syre, one Sonne, there is one sacred sprite,</l>
+               <l>Three persons, but one God indefinite.</l>
+            </lg>
+            <lg>
+               <l>How well would this become the greatest Ile,</l>
+               <l>Three warlike people to impatronize?</l>
+               <l>And of three warlike Nations to empile</l>
+               <l>One Monarchy, whence glory might arise,</l>
+               <l>And honour vnto all posterities.</l>
+               <l>Ne law nor honour doth the same improve,</l>
+               <l>But a farre meaner stop, sense or selfe-love.</l>
+            </lg>
+            <lg>
+               <l>Oh where is <hi>Britaine! Britaine</hi> where is shee?</l>
+               <l>What? smothered in forgetfull sepulcher?</l>
+               <l>Exilde from mans reviving memorie?</l>
+               <l>Oh no, let <hi>England</hi> like a childe prefer</l>
+               <l>That well knowne title of her ancester:</l>
+               <l>I know the neighbour sisters of this Ile,</l>
+               <l>Will greatly glory in so good a stile.</l>
+            </lg>
+            <lg>
+               <l>What? done the vnamafed Muses dare</l>
+               <l>Assume the charge of mighty Common-weale?</l>
+               <l>No, glorious men of state, the Muses are</l>
+               <l>But hand-maides to those worthy wights which deale</l>
+               <l>In Kingdomes cause, and their inflamed zeale</l>
+               <l>Doth inly burne, your excellence to sing,</l>
+               <l>Albee it far too meane to shew such thing.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:26"/>
+               <l>Whom not a world, ne heaven might all suffice,</l>
+               <l>Whose peerelesse Empire never limit knew,</l>
+               <l>When that great Prince vnited was and wise,</l>
+               <l>
+                  <note place="margin">Alexander wished the whole world one kingdom.</note>Who him withstood, that did not after rue;</l>
+               <l>And did not <hi>Greece</hi> the Esterne world subdue;</l>
+               <l>Did not he wish that all this world were one,</l>
+               <l>One name, one tongue, one law, one <hi>Macedon.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">The division of the Graeci<g ref="char:EOLhyphen"/>an Monarchy wrought much harme.</note>But when his heires (vnworthy so to bee)</l>
+               <l>Vnworthy heires, though, worthiest was his choice,</l>
+               <l>Hight <hi>Perdicas,</hi> but <hi>Perdicas</hi> did see</l>
+               <l>His maisters merrit, envy counterpoise,</l>
+               <l>Whose life breed feare, his end doth nourish ioyes:</l>
+               <l>One is made five, five have what one earst had,</l>
+               <l>Pride, envy, envy rule, rule makes men mad.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">Li<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i.</note>When the earthes maisters, Romans heeretofore</l>
+               <l>With their still striving neighbours did vnite,</l>
+               <l>Did not they both agree, and both implore</l>
+               <l>One name? like law, one custome, and like rite,</l>
+               <l>"Equalitie breedes love, but greatnesse spite.</l>
+               <l>"Like loveth like, but seldome do we see</l>
+               <l>"Affection in the throne of Maiestie.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">Idem.</note>So did the loyall sonne whence earst he came</l>
+               <l>In armed guise, the stranger soone to prove,</l>
+               <l>Old daies best trumpes, record how he did tame</l>
+               <l>The bordring States, then cause of hate t'amove,</l>
+               <l>Gave them one name, one law, and vsde one love.</l>
+               <l>But what of these? their children were, and bee</l>
+               <l>Heires to the fourth last greatest Monarchie.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:26"/>
+               <l>Suspitious frame is inequalitie,<note place="margin">The diffe<g ref="char:EOLhyphen"/>rence twixt equality and inequalitie.</note>
+               </l>
+               <l>Vpon whose front is laid the arch of hate,</l>
+               <l>Where discontent guards Towers of iniurie,</l>
+               <l>And rude emotion rendes obedience gate,</l>
+               <l>Which like a Sea o're-whelmes the ship of state:</l>
+               <l>"Similitude knits harts with silver chaine,</l>
+               <l>"When subiects gree, then Princes glory gaine.</l>
+            </lg>
+            <lg>
+               <l>For as the Sunne shootes forth impartiall beames,<note place="margin">Castilio lib. <hi>4.</hi>
+                  </note>
+               </l>
+               <l>So libertie and iustice should be one,</l>
+               <l>To all the same, or as the silver streames,</l>
+               <l>Which downe descend from cliffe or watry stone,</l>
+               <l>Are ever cleere, so lawe should favour none:</l>
+               <l>This mo'vd <hi>Mecoe<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>as</hi> thus perswade his King,</l>
+               <l>"Diversitie of names all harme bring.</l>
+            </lg>
+            <lg>
+               <l>Oh that some great <hi>Mecoenas</hi> would perswade</l>
+               <l>The willing breast of our so gratious king,</l>
+               <l>Vnto so good a deede; then would I wade</l>
+               <l>In deepe of praise, and <hi>Clioes</hi> selfe should sing</l>
+               <l>His worth, whilst I gave life to lowly string:</l>
+               <l>In vaine I wish, sith Princes wish in vaine,</l>
+               <l>Hope onely doth with misery remaine.</l>
+            </lg>
+            <lg>
+               <l>This mov'd that famous Schoolemaister of old,<note place="margin">Aristotle wi<g ref="char:EOLhyphen"/>shed the whole world one kingdom.</note>
+               </l>
+               <l>(To whom was left all science treasurie,</l>
+               <l>Whose braine did Natures deepest secret hold)</l>
+               <l>To wish a league (if such a league might bee)</l>
+               <l>As was but once at Christs Nativitie:</l>
+               <l>One law mongst all, all govern'd by one man,</l>
+               <l>"Sith like obedience, like alleageance wan.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:27"/>
+               <l>
+                  <hi>Farneze</hi> this in <hi>Parma</hi> did intend,</l>
+               <l>And thought to ioyne <hi>Placentia</hi> with the same;</l>
+               <l>This <hi>Lewis</hi> did with <hi>Britaine,</hi> to the end</l>
+               <l>
+                  <note place="margin">Britaine vni<g ref="char:EOLhyphen"/>ted to the Crowne of France by marrying the heire thereof.</note>That <hi>France</hi> might quiet be; one law and name</l>
+               <l>Doth everlasting peace in Kingdome frame:</l>
+               <l>
+                  <hi>Henry</hi> the seaventh did the same intend,</l>
+               <l>When <hi>Margret</hi> he to <hi>Iames</hi> did recommend.</l>
+            </lg>
+            <lg>
+               <l>This was that vnion which <hi>Polonia</hi> wan,</l>
+               <l>When it in marriage match'd with neighbour state.</l>
+               <l>And thereby gain'd the Crowne of <hi>Lithuan;</hi>
+               </l>
+               <l>Love is the spouse of glory, end of hate,</l>
+               <l>Which is with ioy and peace conterminate:</l>
+               <l>
+                  <note place="margin">Augustus Caesar Empe<g ref="char:EOLhyphen"/>rour of the whole world.</note>Witnesse this vniverse, which once did see</l>
+               <l>A league mongst men, at Gods nativitie.</l>
+            </lg>
+            <lg>
+               <l>What is more glorious then a land entyre?</l>
+               <l>More to be wish'd, then love or heauenly peace?</l>
+               <l>Or what doth more agree with Gods desire?</l>
+               <l>Wee cannot Christ our Saviour more displease</l>
+               <l>Then when to live in amity we cease:</l>
+               <l>Thus saith the Lord, whose words be ever true,</l>
+               <l>Love one another still as I love you.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">Henry the se<g ref="char:EOLhyphen"/>cond &amp; King Iohn were called Kings of Britaine: Henry the seaventh and the eight.</note>If princely <hi>Iohn</hi> and his more noble syre,</l>
+               <l>If <hi>Henry</hi> who surnamed was the Wise,</l>
+               <l>And if his sonne this vnion did desire;</l>
+               <l>If <hi>France</hi> it hindred lest that we should rise</l>
+               <l>To rub old scarres and drowne indignities:</l>
+               <l>What shall we doe? nay what not doe, to gaine</l>
+               <l>That title which for ever shall remaine?</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:27"/>
+               <l>I thinke, and as me seemes I thinke the best,</l>
+               <l>That England should, and Scotland both detaine</l>
+               <l>Triumphant glee, and both contented rest</l>
+               <l>With this great Title, which some thinke but vaine;</l>
+               <l>If not with that, then with this quiet raigne:</l>
+               <l>How like you are! can nothing pride remove?</l>
+               <l>Men say, Similitude ingendreth love.</l>
+            </lg>
+            <lg>
+               <l>You have one God, one King, one land you have,</l>
+               <l>One watry wall doth both your coasts engire,</l>
+               <l>Yborne alike yee be, and have like grave,</l>
+               <l>Both valiant, wise, attempred with like fire;</l>
+               <l>You onely want one name, and one desire:</l>
+               <l>Wish you home peace; This you secures, if warre,</l>
+               <l>Valure vnited growes more valiant farre.</l>
+            </lg>
+            <lg>
+               <l>Dares pesant Ignorance amaze the wise,</l>
+               <l>And prison Iudgements eine? It may not be,</l>
+               <l>Men be not led by sense, but reasons eies</l>
+               <l>Discerne the truth; who would not vnion see?</l>
+               <l>Envy which lookes awry, and none but shee.</l>
+               <l>Oh be not envious, ne suspition drincke,</l>
+               <l>They sweare that true, which Princes never thinke.</l>
+            </lg>
+            <lg>
+               <l>Some men done say, I nought save Poetize,</l>
+               <l>And argue without grant, I not deny,</l>
+               <l>That all approove who are approoved wise</l>
+               <l>This league of kingdomes; but the iealous eie</l>
+               <l>Dreames danger most, when harme least is nie.</l>
+               <l>Love this allowes, Law sayes it should not be;</l>
+               <l>All perills doe attend on noveltie.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:28"/>
+               <l>
+                  <note place="margin">
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>e vnion of <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ine, the <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>esest cause <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>er present <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>tnes. <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>con. Mach.</note>What of <hi>Granade, Lucete,</hi> and <hi>Aragon?</hi>
+               </l>
+               <l>The <hi>Castiles</hi> twaine, and famous <hi>Andeluse?</hi>
+               </l>
+               <l>Be not they all as if they were but one?</l>
+               <l>Why then should this so many men amuse?</l>
+               <l>That <hi>Britaines</hi> doe the name of <hi>Britaine</hi> chuse.</l>
+               <l>Eternall deedes were by this concord done,</l>
+               <l>A second world this second Vnion wonne.</l>
+            </lg>
+            <lg>
+               <l>Was never king of <hi>Castile</hi> did so brave,</l>
+               <l>So brave and great a deede was never done</l>
+               <l>By the prowde man, who swilles the <hi>Baetique</hi> wave,</l>
+               <l>So large a plaine as this was never wonne</l>
+               <l>By <hi>Portaguse,</hi> ne yet by <hi>Aragon.</hi>
+               </l>
+               <l>Twas Spaine did this, these all. Hence I conclude,</l>
+               <l>"Vnion is Queene of noble fortitude.</l>
+            </lg>
+            <lg>
+               <l>What did the wise and valiant <hi>Ferdinand</hi>
+               </l>
+               <l>When <hi>Charles</hi> like thunder in triumphant guise,</l>
+               <l>Rusht on the ruines of a mighty land,</l>
+               <l>Which whilome was ydrad? With mournefull eies</l>
+               <l>He sawe his kinsmen fall, nor durst hee rise</l>
+               <l>In armes gainst lusty <hi>Charles,</hi> when <hi>Spaine</hi> was one,</l>
+               <l>
+                  <hi>France</hi> fell, and <hi>Naples</hi> fell to <hi>Aragon.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>T'was not <hi>Charles</hi> selfe, but t'was vnited <hi>Spaine</hi>
+               </l>
+               <l>Made <hi>Charles</hi> so glorious, and her selfe so great;</l>
+               <l>So great she was that latter world doth daine</l>
+               <l>To be her slave; and with her childrens sweat</l>
+               <l>Dig her owne wombe; West <hi>India</hi> makes <hi>Spaine</hi> great:</l>
+               <l>Witnes the antique worthies whilome dead,</l>
+               <l>The glorious gests this mighty vnion bred.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:28"/>
+               <l>Witnesse that ominous and fatall day,<note place="margin">The batt<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> before Pa<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </note>
+               </l>
+               <l>Where the brave <hi>Pesquairy</hi> did all destroy</l>
+               <l>Insulting <hi>Francis;</hi> and in mighty fray</l>
+               <l>Tamde the stowt <hi>Swize</hi> and sturdy Milanois,</l>
+               <l>Then <hi>Milaine</hi> was, what <hi>Milaine</hi> was I ioy</l>
+               <l>To thinke, but <hi>Milaine</hi> is (vnhappy she)</l>
+               <l>The lively Mappe of sad servilitie.</l>
+            </lg>
+            <lg>
+               <l>As me she fell, I fell and cannot rise,</l>
+               <l>Shee lost, but wan, small woe to her, but I</l>
+               <l>Have lost my selfe, distressed me, the wise</l>
+               <l>Shut me in grave, grave men done me to die,</l>
+               <l>And dead I am, so <hi>Milaine</hi> was, but I</l>
+               <l>Shall never be, she is as erst I was,</l>
+               <l>I am as she must be, I am but grasse.</l>
+            </lg>
+            <lg>
+               <l>I not deny the German name is great</l>
+               <l>And mighty in the eie of all estate,<note place="margin">England a name of re<g ref="char:EOLhyphen"/>nowne.</note>
+               </l>
+               <l>Yet must I say (my vowes doe me intreate,</l>
+               <l>But not seditious I, that staine I hate)</l>
+               <l>I was as faire, and time may ruinate</l>
+               <l>Her name as mine, mine rest, and she agen,</l>
+               <l>(Which God avert) may live and dwell with men.</l>
+            </lg>
+            <lg>
+               <l>Then did she plaine, and fountaines left her eies,<note place="margin">A continuati<g ref="char:EOLunhyphen"/>on of Brittain<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> lament.</note>
+               </l>
+               <l>Sweete pearly mist, ne did shee lin to crie;</l>
+               <l>Soone after these hart-rending Elegies,</l>
+               <l>I sawe her gaze with admirable eie,</l>
+               <l>Vpon the dales and vallies which were nie:</l>
+               <l>Then gan she weepe anew, with sighes opprest,</l>
+               <l>Which might have mov'd an adamantine breast.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:29"/>
+               <l>So dire her doale, as if she then would die,</l>
+               <l>When all agast to heare such mournefull tine,</l>
+               <l>Me seemd I sawe the lordly <hi>Neptune</hi> by,</l>
+               <l>Who as a Sea-man which observes the time,</l>
+               <l>With Reasons helme gan stirre the Brigandine:</l>
+               <l>
+                  <note place="margin">
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>tanies ar<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ll in Eng<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>d.</note>The ship by favour of the Sea-gods hand,</l>
+               <l>With safety harbor'd nigh vnto the land.</l>
+            </lg>
+            <lg>
+               <l>That land which forraine men admire to see,</l>
+               <l>That land, as doth the antient story say,</l>
+               <l>Where liv'd the sonnes of grave Antiquitie,</l>
+               <l>That land for which my very soule doth pray,</l>
+               <l>Triumphant glory and eternall day:</l>
+               <l>England that land, that Iland of renowne,</l>
+               <l>Arch-piller of the late vnited Crowne.</l>
+            </lg>
+            <lg>
+               <l>No sooner did the aged Queene, yet faire,</l>
+               <l>
+                  <note place="margin">
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>he King a <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>orthy resto<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>r of his roi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> title, con<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ned by the <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>periall <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ambers of England and Scotland.</note>Arrive vpon this mighty continent,</l>
+               <l>But Englands king to <hi>Severne</hi> did repaire,</l>
+               <l>And dainde her welcome with the full consent</l>
+               <l>Of countries twaine heroicke Parliament:</l>
+               <l>Elected Statists, Peeres of noted fame,</l>
+               <l>Gracde Ilands Queene with this illustrous name.</l>
+            </lg>
+            <lg>
+               <l>And <hi>Iames</hi> high <hi>Steward</hi> to the silver sphere,</l>
+               <l>Which doth this lower kingdome canopise,</l>
+               <l>Servant to him who in his hand doth beare</l>
+               <l>The thunder stone, vouchaft with gratious eies,</l>
+               <l>To entertaine this Queenes calamities;</l>
+               <l>And her proclaimde through all his emperie,</l>
+               <l>Cleaping himselfe, Monarch of <hi>Brittanie.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:29"/>
+               <l>Oh glorious name and farre more glorious king,</l>
+               <l>Me seemes I ioy, vpon these ioyes to doate:</l>
+               <l>Oh that I <hi>Homer</hi> were, thy praise to sing,</l>
+               <l>Or some more royall Bard, for well I wote,</l>
+               <l>Such dignitie doth crave a heavenly note.</l>
+               <l>Pardon (dread Lord) though I deserve the rod,</l>
+               <l>Kings should in mercy be most like to God.</l>
+            </lg>
+            <lg>
+               <l>Pardon (dread Soveraigne) my vndazled rime,</l>
+               <l>Which dares behold <hi>Augustus</hi> maiestie,</l>
+               <l>Thy happy greatnes, and this gorgeous time,</l>
+               <l>Whose radiant sparkes, and lustre darken nie,</l>
+               <l>The glosse of <hi>Platoes</hi> rare felicitie:</l>
+               <l>Heavens best Angell ever waite on thee,</l>
+               <l>Thou best of men, Phaenix of maiestie.</l>
+            </lg>
+            <lg>
+               <l>Now drowned honour breathes againe, and grace,</l>
+               <l>Grace waites on merit, and the noble line</l>
+               <l>Beginne heroicke vertue to embrace,</l>
+               <l>Embrace it Lordes, that honor is divine</l>
+               <l>Which thou doost get, and was not gainde by thine:</l>
+               <l>How much this age and elder times do iarre,</l>
+               <l>As Princes be, so subiects ever are.</l>
+            </lg>
+            <lg>
+               <l>When the first happy <hi>Caesar</hi> swayd the Mace</l>
+               <l>Of lower world, this baser element;</l>
+               <l>
+                  <hi>Mecoenas,</hi> although poore, was held in grace,</l>
+               <l>Because his actes with iustice did consent,</l>
+               <l>Which best beseemde the Roman governement:</l>
+               <l>Chaste vertue he did on his breast enthrone,</l>
+               <l>Which was his Soveraignes sacred paragon.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:30"/>
+               <l>Monster of men, a Monarch made of mire,</l>
+               <l>He lifted to the worlds imperiall seate</l>
+               <l>Rulde all by rage, made law the slave of ire,</l>
+               <l>
+                  <hi>Sabinus</hi> and licentious <hi>Anicete,</hi>
+               </l>
+               <l>For that they were so bad, were made so great:</l>
+               <l>A King should be most like a Ioyners square,</l>
+               <l>Making all even, and himselfe most rare.</l>
+            </lg>
+            <lg>
+               <l>As yeares foure sonnes like vntun'd musicke iarre,</l>
+               <l>So doe the natures of succeeding Kings</l>
+               <l>Maintaine a strife and everlasting warre;</l>
+               <l>
+                  <hi>Aurelius</hi> to licentious pallace brings</l>
+               <l>Philosophy, the fairest thing of things:</l>
+               <l>
+                  <hi>Plato</hi> hath now his Prince, except I erre,</l>
+               <l>A wise man King, a King Philosopher.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">Roger Morti<g ref="char:EOLhyphen"/>mer Earle of March a false leader.</note>Ne're shall a martiall troupe at <hi>Stanehope</hi> more,</l>
+               <l>Vnworthy leaders treachery complaine,</l>
+               <l>Ne ever shall a mournfull Queene deplore</l>
+               <l>Her noble Knight on English border slaine;</l>
+               <l>
+                  <note place="margin">Iames the 4. slaine at Flo<g ref="char:EOLhyphen"/>den.</note>
+                  <hi>Floden</hi> henceforth shall be renownde in vaine:</l>
+               <l>T'is nought save envy, pride, disdaine and spite,</l>
+               <l>Can sever them whom Nature did vnite.</l>
+            </lg>
+            <lg>
+               <l>Now may wee safely neighbour <hi>France</hi> invade,</l>
+               <l>If she dare tempt our titles preiudice,</l>
+               <l>Now let me with a mooving tongue perswade</l>
+               <l>Those people which both valiant be and wise,</l>
+               <l>Each to defend the others dignities:</l>
+               <l>Heavens infuse some motion to my pen,</l>
+               <l>Be as it was at first one name, one men.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:30"/>
+               <l>Go hand in hand as Peace and Iustice goe,</l>
+               <l>Heere glorious peace ydwell, and Iustice there,</l>
+               <l>There Peace, heere Iustice shall her vigor shoe,</l>
+               <l>Obedience there, and heere a loving feare,</l>
+               <l>Both bodies shall be one, and both shall beare</l>
+               <l>One equall name, that <hi>Brittaine</hi> hight, and shee</l>
+               <l>Shall cleaped be the land of equitie.</l>
+            </lg>
+            <lg>
+               <l>Or Sion mount where <hi>David</hi> rules as King,</l>
+               <l>Image of God, oh pardon me the while</l>
+               <l>(Much feared Soveraigne,) I thy glory sing,</l>
+               <l>Though I bin base, and in respect too vile,</l>
+               <l>Yet daine me leave to sound thy kingdomes stile:</l>
+               <l>Lord of the greatest Iland, whose defence</l>
+               <l>Is seated in a seas circumference.</l>
+            </lg>
+            <lg>
+               <l>Oh who will grace my irrenowned reede,</l>
+               <l>And in my breast heroicke thought infuse?</l>
+               <l>That I may sing the praise of noble deede,</l>
+               <l>Hight worthy deedes when as the great men vse</l>
+               <l>
+                  <hi>Mars</hi> campe with <hi>Pallas</hi> College to pervse:</l>
+               <l>Men of great worth, and worthy to be great,</l>
+               <l>Who can as well of Artes as Armes treate.</l>
+            </lg>
+            <lg>
+               <l>So the brave Courtier whose illustrous minde<note place="margin">The qualitie of a good Courtier.</note>
+               </l>
+               <l>Doth all converse with kingdomes grave affaire</l>
+               <l>Should be most wise, and being wise, most kinde,</l>
+               <l>In courteous speach, and semblance debonaire</l>
+               <l>To every gentle squire and damsell faire:</l>
+               <l>His forehead should be braine, his breast sincere,</l>
+               <l>His minde vnstainde, his heart devoyd of feare.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:31"/>
+               <l>
+                  <note place="margin">Castilio lib. 1.</note>But above all, he armes must professe,</l>
+               <l>And like some brave Italian knight yride</l>
+               <l>In gazed list, and with his speare expresse</l>
+               <l>A French resolve, or a Biscaine tride</l>
+               <l>Shew hardiment and more than manly pride:</l>
+               <l>He should exceed in each and all of these,</l>
+               <l>No Courtier vnto <hi>Alcibiades.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And as the silver Swanne on river saile,</l>
+               <l>With ease from ground to barbed steede arise,</l>
+               <l>He should with knightly valure learne to traile</l>
+               <l>A souldiers pike, he ought with carefull eyes,</l>
+               <l>To heede those men, who are both grave and wise:</l>
+               <l>To start the Hare, and rowze embraked deere,</l>
+               <l>Beseemes the man of court and royall peere.</l>
+            </lg>
+            <lg>
+               <l>He must with modest parlee entertaine</l>
+               <l>(And not with strange vnusuall metaphor)</l>
+               <l>Chaste Ladies eares, nor must he bravely straine</l>
+               <l>His owne desert, though he deserve much more,</l>
+               <l>Selfe praise is most dispraise, if praisde before.</l>
+               <l>Do thou high deede, let others thee applause,</l>
+               <l>No lawe allowes a Iudge in his owne cause.</l>
+            </lg>
+            <lg>
+               <l>He ought perswade his Soveraigne to all good,</l>
+               <l>
+                  <note place="margin">The end of a Courtier. Ca<g ref="char:EOLhyphen"/>stilio lib. 4.</note>To manage worthy Act and kingly deede,</l>
+               <l>He must respect his honor more than blood,</l>
+               <l>Ne must he basely fawne, though flattry speede,</l>
+               <l>Yet is it base and spurnd by royall seed:</l>
+               <l>That page of rule which doth on greatnes tend</l>
+               <l>He must not serve; the best the best commend.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:31"/>
+               <l>Who cannot smoothe if he can aught at all,</l>
+               <l>And lowly bend to each submissive knee,</l>
+               <l>Vnworthy to high deede, whose fiery gall</l>
+               <l>Burnes bright in flame; that man is praisde by me,</l>
+               <l>Who tames burnt rage, hee's wise and none but hee:</l>
+               <l>Ah well befall that man, who wisely can</l>
+               <l>Subdue the froward appetite of man.</l>
+            </lg>
+            <lg>
+               <l>Pardon (great Lords) my rash, but ardent zeale,</l>
+               <l>Whose fortunes base and vnadvanced state,</l>
+               <l>To your sincere demeanour must appeale,</l>
+               <l>And as for you, you much belov'd of fate,</l>
+               <l>Returne from bad, t'is good, though ne're so late:</l>
+               <l>I can but wish, it rests in you to doe,</l>
+               <l>Your duety ought performe, tis mine to wooe.</l>
+            </lg>
+            <lg>
+               <l>Bright shades and images of antique syres,</l>
+               <l>Whose glories are in primer age repleate,</l>
+               <l>Planted amidst a world of heavenly spires,</l>
+               <l>Grac'd with all eyes, this onely I intreate,</l>
+               <l>As yee be ever good, be ever great:</l>
+               <l>Oh emulate your ancestors of old,</l>
+               <l>Be modest, prudent, iust, and wisely bold.</l>
+            </lg>
+            <lg>
+               <l>Shall I speake more? or have I spoken more</l>
+               <l>Then well beseemes so meane a man as I,</l>
+               <l>What have I done? misdone? I you implore</l>
+               <l>That to redeeme, and looke with heedefull eye,</l>
+               <l>Vpon my loves ill framde infirmitie:</l>
+               <l>I'le ope my breast, if you will daine to view,</l>
+               <l>That all I doe, is but to honour you.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:32"/>
+               <l>
+                  <note place="margin">
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Phil: Sid<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>y an excel<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>t Courtier.</note>Oh be like him, who whilome midst our Peeres,</l>
+               <l>As <hi>Cynosure</hi> or fairer starre did shine;</l>
+               <l>
+                  <hi>Sidney,</hi> whose worths were more then were his yeeres,</l>
+               <l>Heere brave <hi>Castilio</hi> see the praise of time,</l>
+               <l>A perfect Courtier rightly cleaped thine:</l>
+               <l>Most bold in Armes, and excellently wise,</l>
+               <l>Himselfe in all, and gratious in all eyes.</l>
+            </lg>
+            <lg>
+               <l>A generous and noble man indeede,</l>
+               <l>To tilt and turney with a comely grace,</l>
+               <l>To mannage vntam'd mouth of mighty steede,</l>
+               <l>Of blood all worthy, worthy all his race,</l>
+               <l>What e're a Knight should have, in him there was:</l>
+               <l>Hee scorn'd bought honour, sdainde the servile fee,</l>
+               <l>For what he was, he well deserv'd to bee.</l>
+            </lg>
+            <lg>
+               <l>For what he had, he well deserv'd to have,</l>
+               <l>And more, if more might given be to men,</l>
+               <l>What man may give, that many to thee gave,</l>
+               <l>Living, due praise, all praise; and dead, (oh then)</l>
+               <l>They reckon thee with Saintes, and not with men:</l>
+               <l>Court, Cittie wept, so did the <hi>Academe,</hi>
+               </l>
+               <l>For thou didst live and wert belov'd in them.</l>
+            </lg>
+            <lg>
+               <l>Court thy brave carriage, Citty thy best love,</l>
+               <l>
+                  <hi>Athens</hi> thy wisedome, and the world thy name,</l>
+               <l>The world and all of them did well approve</l>
+               <l>Thy rare perfection, yea and well-nie blame</l>
+               <l>Death that did end thy life, but not thy fame:</l>
+               <l>The world, yea <hi>Athens,</hi> Cittie, Court maintaine</l>
+               <l>Thy carriage, courage, love and learned vaine.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:32"/>
+               <l>Court many had, not many like to thee,</l>
+               <l>Impartiall, modest, learned without feare,</l>
+               <l>Magnificence and liberalitie,</l>
+               <l>Did in thy breast their greater Kingdome beare,</l>
+               <l>Still did they live with thee, and died there:</l>
+               <l>Whenas they saw thy ashes in their vrne,</l>
+               <l>They fled to heaven, and never did returne.</l>
+            </lg>
+            <lg>
+               <l>So did the Muse, the Muses wept thee dead,</l>
+               <l>For well they knew, and they were taught by care,</l>
+               <l>Thou wert the starre, oh never such was bred</l>
+               <l>By humane breast! whose influences rare</l>
+               <l>Gave ever shine, ne thy hand did never spare,</l>
+               <l>Spare they that list for me, I seeke not I,</l>
+               <l>To elevate my starres by Poesie.</l>
+            </lg>
+            <lg>
+               <l>Thou wert a man yborne to governe men,<note place="margin">Some say<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> should have bin elected King of Po<g ref="char:EOLhyphen"/>land: it is m<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> certaine he<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> was well e<g ref="char:EOLhyphen"/>steemed of<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> all the Vay<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> vodes, at hi<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> being in tha<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Kingdome.</note>
+               </l>
+               <l>And hadst thou liv d, thou mightst have bin a King,</l>
+               <l>When honour even chose thee, even then</l>
+               <l>Thou leftst the world, and with thy vertuous wing</l>
+               <l>Didst go to dwell with God, and there doost sing</l>
+               <l>His praise, who's best above, whilst heere below,</l>
+               <l>The best of men bewailes thy overthrow.</l>
+            </lg>
+            <lg>
+               <l>Who would not glory that so great a Muse,</l>
+               <l>A Princes pen, and such a Prince as hee,<note place="margin">Sir Phillip Sidney prai<g ref="char:EOLhyphen"/>sed by his Maiestie.</note>
+               </l>
+               <l>Whom all admire, should for his subiect chuse,</l>
+               <l>Who, had he liv'd this latter day to see,</l>
+               <l>Had bin his subiect worthy so to bee:</l>
+               <l>Oh worthy subiect, and farre worthier King,</l>
+               <l>Who chose so brave a subiect for to sing!</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:33"/>
+               <l>Who would not die, yea many deaths sustaine,</l>
+               <l>And all adventure deepe of misery,</l>
+               <l>So by his fall such glory he may gaine,</l>
+               <l>Such glory as I weene, maiestique eie</l>
+               <l>Did nere behold of soveraigne royaltie:</l>
+               <l>What was <hi>Achilles</hi> gracde by <hi>Homers</hi> rime?</l>
+               <l>And shalt not thou outlive the date of time?</l>
+            </lg>
+            <lg>
+               <l>Yes noble <hi>Sidney,</hi> noblemen shall praise</l>
+               <l>And welnigh waile thy peerelesse worthinesse,</l>
+               <l>For they bin base, nor doe they dare the wayes</l>
+               <l>Attempt, which thou with more than hardinesse</l>
+               <l>Didst knightly leade, knights courage is farre lesse,</l>
+               <l>Their wisdome lesse (though many be) thine more,</l>
+               <l>Those many yeeld to few that were before,</l>
+            </lg>
+            <lg>
+               <l>But thou art dead, I would it were not sinne,</l>
+               <l>And I would wish thou wert but newly borne,</l>
+               <l>Thou wert, as if indeede thou hadst not bin,</l>
+               <l>Too soone we sawe the night of such a morne;</l>
+               <l>Oh hadst thou never dide, on ne're bin borne▪</l>
+               <l>But being dead, faire heavens graunt I see.</l>
+               <l>One to excell, who now is like to thee.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">The worthi<g ref="char:EOLhyphen"/>nesse of Will: Earle of Pem<g ref="char:EOLhyphen"/>brooke.</note>Whose name and vertue like his grandsire may</l>
+               <l>Be ever great, his name shall never die,</l>
+               <l>So did he live, but never liv'd a day</l>
+               <l>Without brave deede, so bin his vertues hie,</l>
+               <l>That they still live, but never liv'd to die:</l>
+               <l>Live as belov'd of all, and live you long,</l>
+               <l>His sonnes brave sonnes to grace my humble song.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:33"/>
+               <l>Live thou for ever that didst never ill,</l>
+               <l>Oh why should honour die, and vertue bee</l>
+               <l>Entoomb'd? what spire or Alablaster hill,</l>
+               <l>Albee it heaven scare, as oft I see,</l>
+               <l>Dare but obscure thy worth and worthy thee:</l>
+               <l>Worthy ninth heaven, live there in spite of grave,</l>
+               <l>Whilst thy brave Nephewes heere all honour have.</l>
+            </lg>
+            <lg>
+               <l>Honour the base which did thy greatnesse stay,</l>
+               <l>Thy greatnesse stood on honourable base,</l>
+               <l>Thou wert all honour, honour every way,</l>
+               <l>No way to honour is, nor ever was</l>
+               <l>Enstrang'd to thee, thou wert the glorious glasse:</l>
+               <l>Where me it may her noble shade behold,</l>
+               <l>Base the advancement which is bought or sold.</l>
+            </lg>
+            <lg>
+               <l>Oh couth I praise, (though I affect no praise)</l>
+               <l>Thy rare atchievements Lord, oh then would I</l>
+               <l>(Vnworthy such rare worke) were all my daies</l>
+               <l>To give thy glory life; then ev'ry eye</l>
+               <l>Might wish that such renowne should never die:</l>
+               <l>And when I die (all die) as die I must,</l>
+               <l>Live thou on high, though low I lie in dust.</l>
+            </lg>
+            <lg>
+               <l>Live in great glory,<note place="margin">Sir Thomas Wiat over<g ref="char:EOLhyphen"/>throwne by his wisedome.</note> whose great courage made</l>
+               <l>
+                  <hi>Kents</hi> kingdome threatning rebell to dispaire,</l>
+               <l>Dispaire inforc'd him yeelde, when thy true blade</l>
+               <l>Fled rusty prison, whose feare breathing ayre,</l>
+               <l>Check'd the amazed fone, and did impaire</l>
+               <l>Resolved wrath, good cause doth glory gaine,</l>
+               <l>The bad may thrive, but often strive in vaine.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:34"/>
+               <l>Thy cause was good, and all their anger vaine,</l>
+               <l>Vaine was their wrath, thy anger worthy zeale,</l>
+               <l>Worthy thy selfe; oh could I bravely straine</l>
+               <l>That mornings glee, when <hi>Wiat</hi> did appeale</l>
+               <l>To warre, and thou by armes didst interdeale</l>
+               <l>
+                  <note place="margin">Queene Ma<g ref="char:EOLhyphen"/>ry of a noble courage.</note>Thy Princesse cause, whose courage had no meare,</l>
+               <l>Ne did she flie. A Prince should never feare.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">Hee was or<g ref="char:EOLhyphen"/>daind Gene<g ref="char:EOLhyphen"/>rall against Wiat by Qu. Mary, and a<g ref="char:EOLhyphen"/>gainst the nor<g ref="char:EOLunhyphen"/>therne rebells in the dayes of her sister.</note>Oh for a Phaenix quill to make a pen!</l>
+               <l>Then would I sing, and sweetely then vnfolde</l>
+               <l>Thy fortunate successe, thou best of men,</l>
+               <l>Oh thou as wise as thou wert bravely bolde!</l>
+               <l>What man like thee doth live, or did of olde?</l>
+               <l>Two prudent Queenes mongst all did thee elect,</l>
+               <l>To guarde the girlond, and their lives protect.</l>
+            </lg>
+            <lg>
+               <l>Oh, was there ever any like to thee?</l>
+               <l>Thou wert thy selfe, thy selfe without compare,</l>
+               <l>Patterne of puissance, praise and pietie,</l>
+               <l>What ever Lord save thee did ever dare</l>
+               <l>Vnrippe his breast to kings, and shew it bare?</l>
+               <l>That seldome; Prince who would in safety live,</l>
+               <l>Should flattry shunne, and noble truth believe.</l>
+            </lg>
+            <lg>
+               <l>What ever grace did on thy worth attend,</l>
+               <l>Causde there magnifique bounty much to be</l>
+               <l>Admirde of Kings which did thee more commend?</l>
+               <l>
+                  <note place="margin">He was sent Generall to S. Quintin in the aide of K. Philip.</note>Twice did her gratious eies with glory see</l>
+               <l>Her champion crownde with wreathes of victorie.</l>
+               <l>Sage her advise, and happy was her choise,</l>
+               <l>Which sent thee for to warre in <hi>Vermandoise.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:34"/>
+               <l>There did the lordly <hi>Savoy</hi> much thee grace,</l>
+               <l>So did thy maister mighty king of <hi>Spaine,</hi>
+               </l>
+               <l>Vertue doth vertue, vice doth vice embrace,</l>
+               <l>Like doth his like with favour entertaine;</l>
+               <l>Desert where ere it goes doth glory gaine:</l>
+               <l>And so didst thou; All men did wish to bee</l>
+               <l>Vnlike themselves, for to be like to thee.</l>
+            </lg>
+            <lg>
+               <l>There <hi>Woster, Rutland, Shandoys, Clynton, Gray,</hi>
+                  <note place="margin">Accompani<g ref="char:EOLhyphen"/>ed with these nobles.</note>
+               </l>
+               <l>With all the chosen youth of England there,</l>
+               <l>Waited thy banner in warres prowde array;</l>
+               <l>And then, oh then, thy valure then did beare</l>
+               <l>The price of praise and girlond every where:</l>
+               <l>Vertue had then, and had she now her meede,</l>
+               <l>Many would doe (which dare not do) brave deede.</l>
+            </lg>
+            <lg>
+               <l>Brave were thy deedes, t'was vertue did perswade</l>
+               <l>Thy ready hand to tempt hard enterprise,</l>
+               <l>A native courage did thy breast invade,</l>
+               <l>Which as a glasse layde open to thine eies</l>
+               <l>The secret path where sacred honor lies:</l>
+               <l>Mirror of worthies, and true glories glasse,</l>
+               <l>Such as thou wert I weene there never was.</l>
+            </lg>
+            <lg>
+               <l>Maiestique maners, <hi>Manners</hi> did admire,</l>
+               <l>Thy care and carriage <hi>Clynton</hi> did embrace,</l>
+               <l>But <hi>Grey</hi> was with thy glory set on fire,</l>
+               <l>Thy force did <hi>Ferrers,</hi> faith thy foes amaze,</l>
+               <l>
+                  <hi>Woster</hi> thy worth, and all the world thy grace,</l>
+               <l>These were by thee to fieldes of honour led,</l>
+               <l>And thou by these in field wert honored.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:35"/>
+               <l>When the bold <hi>
+                     <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> and <hi>Swizer</hi> borne to warre,</l>
+               <l>Before S. <hi>Quintine</hi> march'd in battell ray,</l>
+               <l>Which as a chaine of yron did abarre</l>
+               <l>The house of <hi>Spaine;</hi> then thou in royall fray,</l>
+               <l>Didst thy best giftes and bravest blood bewray:</l>
+               <l>Mongst many Leaders which besieg'd that Towne,</l>
+               <l>Thou wert the best, and held in most renowne.</l>
+            </lg>
+            <lg>
+               <l>What bin thy bolde atchievements all to die?</l>
+               <l>Or doe they dwell with thee where Angells dwell?</l>
+               <l>Oh no, they live in thy posteritie,</l>
+               <l>Live thou in heaven, which didst on earth excell,</l>
+               <l>And ioy to see thy Nephewes doe so well:</l>
+               <l>Faire fall thy soule, mens ioy in heaven remaine,</l>
+               <l>Midst troupes of starres with the Angelique traine.</l>
+            </lg>
+            <lg>
+               <l>But noble Lord, if ghost hath powre to heare</l>
+               <l>The voyce of living man, then pardon mee,</l>
+               <l>And if not thou, then thou heroicke Peere</l>
+               <l>His glories heire, which doost my error see,</l>
+               <l>Pardon the man who lives to honour thee:</l>
+               <l>Vnknowne, but this know what e're I write</l>
+               <l>Proceedes from zeale, I am no Parasite.</l>
+            </lg>
+            <lg>
+               <l>And if great Earle, my vnadorned Muse,</l>
+               <l>(The humble hand-maid of heroicke seede)</l>
+               <l>May dare such noble worthinesse peruse,</l>
+               <l>Then will she sing, and my aspiring reede</l>
+               <l>Shall blaze thy merit and eternall deede:</l>
+               <l>Eternall be thy deedes, that when I sing,</l>
+               <l>My words may wonder to the wide world bring.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:35"/>
+               <l>And thou (brave Lord) whome whilome I did dare,</l>
+               <l>In my best manner humbly to salute,</l>
+               <l>Forgive me if I erre, these errors are</l>
+               <l>Signes of my duety, and the same impute</l>
+               <l>Most constant, as they seeme most resolute.</l>
+               <l>Not hope of praise invites my ruder phrase,</l>
+               <l>Thy antique fathers merit to emblase.</l>
+            </lg>
+            <lg>
+               <l>Most honor'd Earle, the rev'rence which I beare</l>
+               <l>Vnto your house and peerelesse Ancester</l>
+               <l>Hath drown'd all dread in me, ne can I feare</l>
+               <l>Though much me gastes, vnfained zeale may erre</l>
+               <l>In praising of your famous grandfather:</l>
+               <l>Image of him, ne're lin vntill we see</l>
+               <l>Your selfe as great, more great, if it may be.</l>
+            </lg>
+            <lg>
+               <l>No more yee lofty numbers, cease awhile,</l>
+               <l>Seclude your selves from world and worldly men,</l>
+               <l>And live in wooddes, where whilome liv'd this Ile,</l>
+               <l>There meditate in some vnhaunted den</l>
+               <l>The vertue of some brave and Noblemen.</l>
+               <l>Goe live mongst shades, so did the Sages olde,</l>
+               <l>"Contentment is a crowne more good than gold.</l>
+            </lg>
+            <lg>
+               <l>Hie yee to quiet rest, and sing no more,</l>
+               <l>Rest quiet in some melancholy cave,</l>
+               <l>Rend thy harpe strings, which make thine owne heart sore,</l>
+               <l>For I well know, my rime and I shall have</l>
+               <l>A life envide, and at our death a grave.</l>
+               <l>Thogh Kings have golden Tombs, &amp; ours be stone,</l>
+               <l>Yet is the earth in which we lie, but one.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:36"/>
+               <l>Forgive me envy now I shew me base,</l>
+               <l>Degenerate and of ignoble minde,</l>
+               <l>To beg for mercie where was never grace:</l>
+               <l>Envy disgrace me not, doe gainst thy kinde,</l>
+               <l>When thou seest most, then seeme to be most blinde:</l>
+               <l>I am all error, so are all my layes,</l>
+               <l>I wish men glory, but my selfe no praise.</l>
+            </lg>
+            <lg>
+               <l>All praise I wish to them, and ever will,</l>
+               <l>Who daine me grace their glories trumpe to be,</l>
+               <l>If such there be, then shall my cimball shrill</l>
+               <l>Sound lowd, and my rent harpe and hart now free</l>
+               <l>Servile it selfe, and once againe shall see</l>
+               <l>This loathed light: but if none grace my pen,</l>
+               <l>As erst I saide, I will not live with men.</l>
+               <l>Thus end I as I never would begin,</l>
+               <l>And pardon crave, repentance is no sinne.</l>
+            </lg>
+            <lg>
+               <l>If I have err'd, and will no more, forgive;</l>
+               <l>As proper tis to man to erre, as live.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="conclusion">
+            <pb facs="tcp:176291:36"/>
+            <head>The Conclusion.</head>
+            <lg>
+               <l>THus have I sung (albee with lowely straine)</l>
+               <l>In noble language well nigh strange to me:</l>
+               <l>Thus have I searcht that eviternall vaine</l>
+               <l>Where treasure lives and mines of glory be,</l>
+               <l>Enwombing pearles of peerelesse amitie:</l>
+               <l>Thus have I sung (although in baser stile)</l>
+               <l>The glorious Vnion of the greatest Ile.</l>
+            </lg>
+            <lg>
+               <l>Where many brave and memorable men</l>
+               <l>Have bin by me (vnworthy such great deede)</l>
+               <l>Dig'd out their graves, and my not graced pen</l>
+               <l>Admits them live; live ever whose great deede</l>
+               <l>Craves royall trumpe or everlasting reede.</l>
+               <l>Live ever, whilst I live you may not die</l>
+               <l>Successefull sonnes of immortalitie.</l>
+            </lg>
+            <lg>
+               <l>No, no, you cannot die, and whilst I live</l>
+               <l>My greater care shall be to eternize</l>
+               <l>Your antique trophees; mighty ones forgive</l>
+               <l>These bolder Essayes, you who midst the skies</l>
+               <l>As glorious starres gaze our infirmities.</l>
+               <l>Though I on earth for you receive disgrace,</l>
+               <l>Live you in heaven, see Iesus face to face.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:176291:37"/>
+            <head>A Defence against Envy.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">W</seg>Hat bin they all who do the Muse admire,</l>
+               <l>And rev'rence Art, what, al esteemed base?</l>
+               <l>No Envy, no, thy wrath and impious ire</l>
+               <l>Cannot the least, the least of thee disgrace,</l>
+               <l>Whose zeale doth Science sacred selfe embrace.</l>
+               <l>What dreads me then? not thou, this mind I beare,</l>
+               <l>He who doth no man wrong, shuld no wrong feare.</l>
+            </lg>
+            <lg>
+               <l>Were not the Sages wont in elder dayes</l>
+               <l>To blaze the worth of honourable men,</l>
+               <l>In lofty numbers and heroicke layes?</l>
+               <l>And did not antique Bard at banquet then</l>
+               <l>Inspirde with rage, mans braver action pen?</l>
+               <l>They did; we will (but not in banquet I)</l>
+               <l>Vertues admired glory dignifie.</l>
+            </lg>
+            <lg>
+               <l>Now Envy, do thy worst, I patience have,</l>
+               <l>To guarde my innocence from prowd disdaine,</l>
+               <l>Revile my labours, and my lines deprave,</l>
+               <l>Yet I will be my selfe, and will remaine</l>
+               <l>Constant vnmoov'd, who strive against the maine</l>
+               <l>Danger attempts: I will not: world forgive</l>
+               <l>Me who doth erre, because in thee I live.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176291:37"/>
+               <l>What neede I thus so basely me excuse,</l>
+               <l>Sith the wide world each day doth error view?</l>
+               <l>Yet doe not let these motives thee seduce;</l>
+               <l>My vnstain'd pen be chaste, be ever true,</l>
+               <l>Full of Invention and of matter new;</l>
+               <l>Submit thee to the wise, tis wisedomes end,</l>
+               <l>Happy those houres which we in study spend.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London by Valentine Simmes. 1605.</p>
+            <pb facs="tcp:176291:38"/>
+            <pb facs="tcp:176291:38"/>
+         </div>
+      </back>
+   </text>
+</TEI>
